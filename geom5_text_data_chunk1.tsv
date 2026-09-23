@@ -1,0 +1,401 @@
+x	y	key	label	showSelected1	PANEL
+0.5	1.1	1	logistique=1.2797, 28/50 erreurs=58%	réseau de neurones 1	1
+0.5	1.1	1	logistique=0.5753, 18/50 erreurs=36%	réseau de neurones 11	1
+0.5	1.1	1	logistique=0.4335, 11/50 erreurs=22%	réseau de neurones 21	1
+0.5	1.1	1	logistique=0.3282, 7/50 erreurs=14%	réseau de neurones 31	1
+0.5	1.1	1	logistique=0.2864, 5/50 erreurs=10%	réseau de neurones 41	1
+0.5	1.1	1	logistique=0.2651, 3/50 erreurs=6%	réseau de neurones 51	1
+0.5	1.1	1	logistique=0.2516, 3/50 erreurs=6%	réseau de neurones 61	1
+0.5	1.1	1	logistique=0.2388, 3/50 erreurs=6%	réseau de neurones 71	1
+0.5	1.1	1	logistique=0.2270, 3/50 erreurs=6%	réseau de neurones 81	1
+0.5	1.1	1	logistique=0.2154, 2/50 erreurs=4%	réseau de neurones 91	1
+0.5	1.1	1	logistique=0.2047, 2/50 erreurs=4%	réseau de neurones 101	1
+0.5	1.1	1	logistique=0.1938, 2/50 erreurs=4%	réseau de neurones 112	1
+0.5	1.1	1	logistique=0.1849, 2/50 erreurs=4%	réseau de neurones 122	1
+0.5	1.1	1	logistique=0.1767, 2/50 erreurs=4%	réseau de neurones 132	1
+0.5	1.1	1	logistique=0.1692, 2/50 erreurs=4%	réseau de neurones 142	1
+0.5	1.1	1	logistique=0.1623, 1/50 erreurs=2%	réseau de neurones 152	1
+0.5	1.1	1	logistique=0.1559, 1/50 erreurs=2%	réseau de neurones 162	1
+0.5	1.1	1	logistique=0.1500, 1/50 erreurs=2%	réseau de neurones 172	1
+0.5	1.1	1	logistique=0.1446, 1/50 erreurs=2%	réseau de neurones 182	1
+0.5	1.1	1	logistique=0.1395, 1/50 erreurs=2%	réseau de neurones 192	1
+0.5	1.1	1	logistique=0.1343, 1/50 erreurs=2%	réseau de neurones 202	1
+0.5	1.1	1	logistique=0.1299, 1/50 erreurs=2%	réseau de neurones 212	1
+0.5	1.1	1	logistique=0.1253, 1/50 erreurs=2%	réseau de neurones 223	1
+0.5	1.1	1	logistique=0.1216, 1/50 erreurs=2%	réseau de neurones 233	1
+0.5	1.1	1	logistique=0.1177, 1/50 erreurs=2%	réseau de neurones 243	1
+0.5	1.1	1	logistique=0.1145, 1/50 erreurs=2%	réseau de neurones 253	1
+0.5	1.1	1	logistique=0.1110, 1/50 erreurs=2%	réseau de neurones 263	1
+0.5	1.1	1	logistique=0.1081, 1/50 erreurs=2%	réseau de neurones 273	1
+0.5	1.1	1	logistique=0.1052, 1/50 erreurs=2%	réseau de neurones 283	1
+0.5	1.1	1	logistique=0.1022, 1/50 erreurs=2%	réseau de neurones 293	1
+0.5	1.1	1	logistique=0.0994, 1/50 erreurs=2%	réseau de neurones 303	1
+0.5	1.1	1	logistique=0.0967, 1/50 erreurs=2%	réseau de neurones 313	1
+0.5	1.1	1	logistique=0.0940, 1/50 erreurs=2%	réseau de neurones 323	1
+0.5	1.1	1	logistique=0.0908, 1/50 erreurs=2%	réseau de neurones 334	1
+0.5	1.1	1	logistique=0.0882, 1/50 erreurs=2%	réseau de neurones 344	1
+0.5	1.1	1	logistique=0.0856, 1/50 erreurs=2%	réseau de neurones 354	1
+0.5	1.1	1	logistique=0.0834, 1/50 erreurs=2%	réseau de neurones 364	1
+0.5	1.1	1	logistique=0.0812, 0/50 erreurs=0%	réseau de neurones 374	1
+0.5	1.1	1	logistique=0.0792, 0/50 erreurs=0%	réseau de neurones 384	1
+0.5	1.1	1	logistique=0.0774, 0/50 erreurs=0%	réseau de neurones 394	1
+0.5	1.1	1	logistique=0.0756, 0/50 erreurs=0%	réseau de neurones 404	1
+0.5	1.1	1	logistique=0.0740, 0/50 erreurs=0%	réseau de neurones 414	1
+0.5	1.1	1	logistique=0.0726, 0/50 erreurs=0%	réseau de neurones 424	1
+0.5	1.1	1	logistique=0.0713, 0/50 erreurs=0%	réseau de neurones 434	1
+0.5	1.1	1	logistique=0.0696, 0/50 erreurs=0%	réseau de neurones 445	1
+0.5	1.1	1	logistique=0.0681, 0/50 erreurs=0%	réseau de neurones 455	1
+0.5	1.1	1	logistique=0.0668, 0/50 erreurs=0%	réseau de neurones 465	1
+0.5	1.1	1	logistique=0.0655, 0/50 erreurs=0%	réseau de neurones 475	1
+0.5	1.1	1	logistique=0.0641, 0/50 erreurs=0%	réseau de neurones 485	1
+0.5	1.1	1	logistique=0.0630, 0/50 erreurs=0%	réseau de neurones 495	1
+0.5	1.1	1	logistique=0.0619, 0/50 erreurs=0%	réseau de neurones 505	1
+0.5	1.1	1	logistique=0.0609, 0/50 erreurs=0%	réseau de neurones 515	1
+0.5	1.1	1	logistique=0.0599, 0/50 erreurs=0%	réseau de neurones 525	1
+0.5	1.1	1	logistique=0.0590, 0/50 erreurs=0%	réseau de neurones 535	1
+0.5	1.1	1	logistique=0.0581, 0/50 erreurs=0%	réseau de neurones 545	1
+0.5	1.1	1	logistique=0.0571, 0/50 erreurs=0%	réseau de neurones 556	1
+0.5	1.1	1	logistique=0.0563, 0/50 erreurs=0%	réseau de neurones 566	1
+0.5	1.1	1	logistique=0.0555, 0/50 erreurs=0%	réseau de neurones 576	1
+0.5	1.1	1	logistique=0.0546, 0/50 erreurs=0%	réseau de neurones 586	1
+0.5	1.1	1	logistique=0.0539, 0/50 erreurs=0%	réseau de neurones 596	1
+0.5	1.1	1	logistique=0.0531, 0/50 erreurs=0%	réseau de neurones 606	1
+0.5	1.1	1	logistique=0.0525, 0/50 erreurs=0%	réseau de neurones 616	1
+0.5	1.1	1	logistique=0.0517, 0/50 erreurs=0%	réseau de neurones 626	1
+0.5	1.1	1	logistique=0.0509, 0/50 erreurs=0%	réseau de neurones 636	1
+0.5	1.1	1	logistique=0.0503, 0/50 erreurs=0%	réseau de neurones 646	1
+0.5	1.1	1	logistique=0.0496, 0/50 erreurs=0%	réseau de neurones 656	1
+0.5	1.1	1	logistique=0.0490, 0/50 erreurs=0%	réseau de neurones 667	1
+0.5	1.1	1	logistique=0.0483, 0/50 erreurs=0%	réseau de neurones 677	1
+0.5	1.1	1	logistique=0.0476, 0/50 erreurs=0%	réseau de neurones 687	1
+0.5	1.1	1	logistique=0.0470, 0/50 erreurs=0%	réseau de neurones 697	1
+0.5	1.1	1	logistique=0.0464, 0/50 erreurs=0%	réseau de neurones 707	1
+0.5	1.1	1	logistique=0.0459, 0/50 erreurs=0%	réseau de neurones 717	1
+0.5	1.1	1	logistique=0.0453, 0/50 erreurs=0%	réseau de neurones 727	1
+0.5	1.1	1	logistique=0.0448, 0/50 erreurs=0%	réseau de neurones 737	1
+0.5	1.1	1	logistique=0.0443, 0/50 erreurs=0%	réseau de neurones 747	1
+0.5	1.1	1	logistique=0.0437, 0/50 erreurs=0%	réseau de neurones 757	1
+0.5	1.1	1	logistique=0.0432, 0/50 erreurs=0%	réseau de neurones 767	1
+0.5	1.1	1	logistique=0.0427, 0/50 erreurs=0%	réseau de neurones 778	1
+0.5	1.1	1	logistique=0.0423, 0/50 erreurs=0%	réseau de neurones 788	1
+0.5	1.1	1	logistique=0.0417, 0/50 erreurs=0%	réseau de neurones 798	1
+0.5	1.1	1	logistique=0.0413, 0/50 erreurs=0%	réseau de neurones 808	1
+0.5	1.1	1	logistique=0.0408, 0/50 erreurs=0%	réseau de neurones 818	1
+0.5	1.1	1	logistique=0.0404, 0/50 erreurs=0%	réseau de neurones 828	1
+0.5	1.1	1	logistique=0.0400, 0/50 erreurs=0%	réseau de neurones 838	1
+0.5	1.1	1	logistique=0.0395, 0/50 erreurs=0%	réseau de neurones 848	1
+0.5	1.1	1	logistique=0.0391, 0/50 erreurs=0%	réseau de neurones 858	1
+0.5	1.1	1	logistique=0.0387, 0/50 erreurs=0%	réseau de neurones 868	1
+0.5	1.1	1	logistique=0.0383, 0/50 erreurs=0%	réseau de neurones 878	1
+0.5	1.1	1	logistique=0.0379, 0/50 erreurs=0%	réseau de neurones 889	1
+0.5	1.1	1	logistique=0.0375, 0/50 erreurs=0%	réseau de neurones 899	1
+0.5	1.1	1	logistique=0.0371, 0/50 erreurs=0%	réseau de neurones 909	1
+0.5	1.1	1	logistique=0.0367, 0/50 erreurs=0%	réseau de neurones 919	1
+0.5	1.1	1	logistique=0.0364, 0/50 erreurs=0%	réseau de neurones 929	1
+0.5	1.1	1	logistique=0.0360, 0/50 erreurs=0%	réseau de neurones 939	1
+0.5	1.1	1	logistique=0.0357, 0/50 erreurs=0%	réseau de neurones 949	1
+0.5	1.1	1	logistique=0.0353, 0/50 erreurs=0%	réseau de neurones 959	1
+0.5	1.1	1	logistique=0.0350, 0/50 erreurs=0%	réseau de neurones 969	1
+0.5	1.1	1	logistique=0.0347, 0/50 erreurs=0%	réseau de neurones 979	1
+0.5	1.1	1	logistique=0.0343, 0/50 erreurs=0%	réseau de neurones 989	1
+0.5	1.1	1	logistique=0.0340, 0/50 erreurs=0%	réseau de neurones 1000	1
+0.5	1.1	1	logistique=0.8244, 32/50 erreurs=64%	modèle linéaire 1	1
+0.5	1.1	1	logistique=0.5714, 14/50 erreurs=28%	modèle linéaire 11	1
+0.5	1.1	1	logistique=0.5537, 17/50 erreurs=34%	modèle linéaire 21	1
+0.5	1.1	1	logistique=0.5418, 14/50 erreurs=28%	modèle linéaire 31	1
+0.5	1.1	1	logistique=0.5313, 13/50 erreurs=26%	modèle linéaire 41	1
+0.5	1.1	1	logistique=0.5221, 14/50 erreurs=28%	modèle linéaire 51	1
+0.5	1.1	1	logistique=0.5138, 13/50 erreurs=26%	modèle linéaire 61	1
+0.5	1.1	1	logistique=0.5065, 12/50 erreurs=24%	modèle linéaire 71	1
+0.5	1.1	1	logistique=0.4999, 11/50 erreurs=22%	modèle linéaire 81	1
+0.5	1.1	1	logistique=0.4940, 10/50 erreurs=20%	modèle linéaire 91	1
+0.5	1.1	1	logistique=0.4886, 10/50 erreurs=20%	modèle linéaire 101	1
+0.5	1.1	1	logistique=0.4832, 10/50 erreurs=20%	modèle linéaire 112	1
+0.5	1.1	1	logistique=0.4789, 10/50 erreurs=20%	modèle linéaire 122	1
+0.5	1.1	1	logistique=0.4748, 11/50 erreurs=22%	modèle linéaire 132	1
+0.5	1.1	1	logistique=0.4711, 11/50 erreurs=22%	modèle linéaire 142	1
+0.5	1.1	1	logistique=0.4678, 11/50 erreurs=22%	modèle linéaire 152	1
+0.5	1.1	1	logistique=0.4646, 11/50 erreurs=22%	modèle linéaire 162	1
+0.5	1.1	1	logistique=0.4618, 11/50 erreurs=22%	modèle linéaire 172	1
+0.5	1.1	1	logistique=0.4591, 11/50 erreurs=22%	modèle linéaire 182	1
+0.5	1.1	1	logistique=0.4566, 11/50 erreurs=22%	modèle linéaire 192	1
+0.5	1.1	1	logistique=0.4543, 12/50 erreurs=24%	modèle linéaire 202	1
+0.5	1.1	1	logistique=0.4522, 12/50 erreurs=24%	modèle linéaire 212	1
+0.5	1.1	1	logistique=0.4500, 12/50 erreurs=24%	modèle linéaire 223	1
+0.5	1.1	1	logistique=0.4482, 12/50 erreurs=24%	modèle linéaire 233	1
+0.5	1.1	1	logistique=0.4464, 12/50 erreurs=24%	modèle linéaire 243	1
+0.5	1.1	1	logistique=0.4448, 12/50 erreurs=24%	modèle linéaire 253	1
+0.5	1.1	1	logistique=0.4433, 12/50 erreurs=24%	modèle linéaire 263	1
+0.5	1.1	1	logistique=0.4419, 12/50 erreurs=24%	modèle linéaire 273	1
+0.5	1.1	1	logistique=0.4405, 11/50 erreurs=22%	modèle linéaire 283	1
+0.5	1.1	1	logistique=0.4393, 11/50 erreurs=22%	modèle linéaire 293	1
+0.5	1.1	1	logistique=0.4381, 11/50 erreurs=22%	modèle linéaire 303	1
+0.5	1.1	1	logistique=0.4369, 11/50 erreurs=22%	modèle linéaire 313	1
+0.5	1.1	1	logistique=0.4359, 11/50 erreurs=22%	modèle linéaire 323	1
+0.5	1.1	1	logistique=0.4348, 11/50 erreurs=22%	modèle linéaire 334	1
+0.5	1.1	1	logistique=0.4338, 11/50 erreurs=22%	modèle linéaire 344	1
+0.5	1.1	1	logistique=0.4329, 10/50 erreurs=20%	modèle linéaire 354	1
+0.5	1.1	1	logistique=0.4321, 10/50 erreurs=20%	modèle linéaire 364	1
+0.5	1.1	1	logistique=0.4313, 10/50 erreurs=20%	modèle linéaire 374	1
+0.5	1.1	1	logistique=0.4305, 10/50 erreurs=20%	modèle linéaire 384	1
+0.5	1.1	1	logistique=0.4298, 10/50 erreurs=20%	modèle linéaire 394	1
+0.5	1.1	1	logistique=0.4291, 11/50 erreurs=22%	modèle linéaire 404	1
+0.5	1.1	1	logistique=0.4284, 11/50 erreurs=22%	modèle linéaire 414	1
+0.5	1.1	1	logistique=0.4278, 11/50 erreurs=22%	modèle linéaire 424	1
+0.5	1.1	1	logistique=0.4272, 11/50 erreurs=22%	modèle linéaire 434	1
+0.5	1.1	1	logistique=0.4265, 11/50 erreurs=22%	modèle linéaire 445	1
+0.5	1.1	1	logistique=0.4260, 11/50 erreurs=22%	modèle linéaire 455	1
+0.5	1.1	1	logistique=0.4255, 11/50 erreurs=22%	modèle linéaire 465	1
+0.5	1.1	1	logistique=0.4250, 10/50 erreurs=20%	modèle linéaire 475	1
+0.5	1.1	1	logistique=0.4245, 11/50 erreurs=22%	modèle linéaire 485	1
+0.5	1.1	1	logistique=0.4240, 11/50 erreurs=22%	modèle linéaire 495	1
+0.5	1.1	1	logistique=0.4236, 11/50 erreurs=22%	modèle linéaire 505	1
+0.5	1.1	1	logistique=0.4232, 11/50 erreurs=22%	modèle linéaire 515	1
+0.5	1.1	1	logistique=0.4228, 11/50 erreurs=22%	modèle linéaire 525	1
+0.5	1.1	1	logistique=0.4224, 11/50 erreurs=22%	modèle linéaire 535	1
+0.5	1.1	1	logistique=0.4220, 11/50 erreurs=22%	modèle linéaire 545	1
+0.5	1.1	1	logistique=0.4216, 11/50 erreurs=22%	modèle linéaire 556	1
+0.5	1.1	1	logistique=0.4213, 11/50 erreurs=22%	modèle linéaire 566	1
+0.5	1.1	1	logistique=0.4210, 11/50 erreurs=22%	modèle linéaire 576	1
+0.5	1.1	1	logistique=0.4207, 11/50 erreurs=22%	modèle linéaire 586	1
+0.5	1.1	1	logistique=0.4204, 11/50 erreurs=22%	modèle linéaire 596	1
+0.5	1.1	1	logistique=0.4201, 11/50 erreurs=22%	modèle linéaire 606	1
+0.5	1.1	1	logistique=0.4198, 11/50 erreurs=22%	modèle linéaire 616	1
+0.5	1.1	1	logistique=0.4195, 11/50 erreurs=22%	modèle linéaire 626	1
+0.5	1.1	1	logistique=0.4193, 11/50 erreurs=22%	modèle linéaire 636	1
+0.5	1.1	1	logistique=0.4190, 11/50 erreurs=22%	modèle linéaire 646	1
+0.5	1.1	1	logistique=0.4188, 11/50 erreurs=22%	modèle linéaire 656	1
+0.5	1.1	1	logistique=0.4185, 11/50 erreurs=22%	modèle linéaire 667	1
+0.5	1.1	1	logistique=0.4183, 11/50 erreurs=22%	modèle linéaire 677	1
+0.5	1.1	1	logistique=0.4181, 11/50 erreurs=22%	modèle linéaire 687	1
+0.5	1.1	1	logistique=0.4179, 11/50 erreurs=22%	modèle linéaire 697	1
+0.5	1.1	1	logistique=0.4177, 11/50 erreurs=22%	modèle linéaire 707	1
+0.5	1.1	1	logistique=0.4175, 11/50 erreurs=22%	modèle linéaire 717	1
+0.5	1.1	1	logistique=0.4173, 11/50 erreurs=22%	modèle linéaire 727	1
+0.5	1.1	1	logistique=0.4172, 11/50 erreurs=22%	modèle linéaire 737	1
+0.5	1.1	1	logistique=0.4170, 11/50 erreurs=22%	modèle linéaire 747	1
+0.5	1.1	1	logistique=0.4168, 11/50 erreurs=22%	modèle linéaire 757	1
+0.5	1.1	1	logistique=0.4167, 11/50 erreurs=22%	modèle linéaire 767	1
+0.5	1.1	1	logistique=0.4165, 11/50 erreurs=22%	modèle linéaire 778	1
+0.5	1.1	1	logistique=0.4164, 11/50 erreurs=22%	modèle linéaire 788	1
+0.5	1.1	1	logistique=0.4162, 11/50 erreurs=22%	modèle linéaire 798	1
+0.5	1.1	1	logistique=0.4161, 11/50 erreurs=22%	modèle linéaire 808	1
+0.5	1.1	1	logistique=0.4159, 11/50 erreurs=22%	modèle linéaire 818	1
+0.5	1.1	1	logistique=0.4158, 11/50 erreurs=22%	modèle linéaire 828	1
+0.5	1.1	1	logistique=0.4157, 11/50 erreurs=22%	modèle linéaire 838	1
+0.5	1.1	1	logistique=0.4156, 11/50 erreurs=22%	modèle linéaire 848	1
+0.5	1.1	1	logistique=0.4155, 11/50 erreurs=22%	modèle linéaire 858	1
+0.5	1.1	1	logistique=0.4154, 11/50 erreurs=22%	modèle linéaire 868	1
+0.5	1.1	1	logistique=0.4152, 11/50 erreurs=22%	modèle linéaire 878	1
+0.5	1.1	1	logistique=0.4151, 11/50 erreurs=22%	modèle linéaire 889	1
+0.5	1.1	1	logistique=0.4150, 11/50 erreurs=22%	modèle linéaire 899	1
+0.5	1.1	1	logistique=0.4149, 11/50 erreurs=22%	modèle linéaire 909	1
+0.5	1.1	1	logistique=0.4148, 11/50 erreurs=22%	modèle linéaire 919	1
+0.5	1.1	1	logistique=0.4147, 11/50 erreurs=22%	modèle linéaire 929	1
+0.5	1.1	1	logistique=0.4147, 11/50 erreurs=22%	modèle linéaire 939	1
+0.5	1.1	1	logistique=0.4146, 11/50 erreurs=22%	modèle linéaire 949	1
+0.5	1.1	1	logistique=0.4145, 11/50 erreurs=22%	modèle linéaire 959	1
+0.5	1.1	1	logistique=0.4144, 11/50 erreurs=22%	modèle linéaire 969	1
+0.5	1.1	1	logistique=0.4143, 11/50 erreurs=22%	modèle linéaire 979	1
+0.5	1.1	1	logistique=0.4143, 11/50 erreurs=22%	modèle linéaire 989	1
+0.5	1.1	1	logistique=0.4142, 11/50 erreurs=22%	modèle linéaire 1000	1
+0.5	1.1	1	logistique=1.3326, 32/50 erreurs=64%	réseau de neurones 1	2
+0.5	1.1	1	logistique=0.5812, 15/50 erreurs=30%	réseau de neurones 11	2
+0.5	1.1	1	logistique=0.4197, 10/50 erreurs=20%	réseau de neurones 21	2
+0.5	1.1	1	logistique=0.3019, 8/50 erreurs=16%	réseau de neurones 31	2
+0.5	1.1	1	logistique=0.2510, 6/50 erreurs=12%	réseau de neurones 41	2
+0.5	1.1	1	logistique=0.2284, 6/50 erreurs=12%	réseau de neurones 51	2
+0.5	1.1	1	logistique=0.2182, 5/50 erreurs=10%	réseau de neurones 61	2
+0.5	1.1	1	logistique=0.2125, 5/50 erreurs=10%	réseau de neurones 71	2
+0.5	1.1	1	logistique=0.2072, 5/50 erreurs=10%	réseau de neurones 81	2
+0.5	1.1	1	logistique=0.2023, 5/50 erreurs=10%	réseau de neurones 91	2
+0.5	1.1	1	logistique=0.1977, 5/50 erreurs=10%	réseau de neurones 101	2
+0.5	1.1	1	logistique=0.1942, 5/50 erreurs=10%	réseau de neurones 112	2
+0.5	1.1	1	logistique=0.1904, 5/50 erreurs=10%	réseau de neurones 122	2
+0.5	1.1	1	logistique=0.1865, 5/50 erreurs=10%	réseau de neurones 132	2
+0.5	1.1	1	logistique=0.1832, 5/50 erreurs=10%	réseau de neurones 142	2
+0.5	1.1	1	logistique=0.1799, 6/50 erreurs=12%	réseau de neurones 152	2
+0.5	1.1	1	logistique=0.1770, 6/50 erreurs=12%	réseau de neurones 162	2
+0.5	1.1	1	logistique=0.1744, 6/50 erreurs=12%	réseau de neurones 172	2
+0.5	1.1	1	logistique=0.1719, 6/50 erreurs=12%	réseau de neurones 182	2
+0.5	1.1	1	logistique=0.1698, 6/50 erreurs=12%	réseau de neurones 192	2
+0.5	1.1	1	logistique=0.1682, 6/50 erreurs=12%	réseau de neurones 202	2
+0.5	1.1	1	logistique=0.1668, 6/50 erreurs=12%	réseau de neurones 212	2
+0.5	1.1	1	logistique=0.1646, 6/50 erreurs=12%	réseau de neurones 223	2
+0.5	1.1	1	logistique=0.1635, 6/50 erreurs=12%	réseau de neurones 233	2
+0.5	1.1	1	logistique=0.1611, 6/50 erreurs=12%	réseau de neurones 243	2
+0.5	1.1	1	logistique=0.1608, 6/50 erreurs=12%	réseau de neurones 253	2
+0.5	1.1	1	logistique=0.1582, 6/50 erreurs=12%	réseau de neurones 263	2
+0.5	1.1	1	logistique=0.1578, 6/50 erreurs=12%	réseau de neurones 273	2
+0.5	1.1	1	logistique=0.1567, 6/50 erreurs=12%	réseau de neurones 283	2
+0.5	1.1	1	logistique=0.1551, 6/50 erreurs=12%	réseau de neurones 293	2
+0.5	1.1	1	logistique=0.1541, 6/50 erreurs=12%	réseau de neurones 303	2
+0.5	1.1	1	logistique=0.1531, 6/50 erreurs=12%	réseau de neurones 313	2
+0.5	1.1	1	logistique=0.1525, 6/50 erreurs=12%	réseau de neurones 323	2
+0.5	1.1	1	logistique=0.1520, 6/50 erreurs=12%	réseau de neurones 334	2
+0.5	1.1	1	logistique=0.1519, 6/50 erreurs=12%	réseau de neurones 344	2
+0.5	1.1	1	logistique=0.1511, 6/50 erreurs=12%	réseau de neurones 354	2
+0.5	1.1	1	logistique=0.1505, 6/50 erreurs=12%	réseau de neurones 364	2
+0.5	1.1	1	logistique=0.1499, 6/50 erreurs=12%	réseau de neurones 374	2
+0.5	1.1	1	logistique=0.1491, 6/50 erreurs=12%	réseau de neurones 384	2
+0.5	1.1	1	logistique=0.1488, 6/50 erreurs=12%	réseau de neurones 394	2
+0.5	1.1	1	logistique=0.1481, 6/50 erreurs=12%	réseau de neurones 404	2
+0.5	1.1	1	logistique=0.1472, 6/50 erreurs=12%	réseau de neurones 414	2
+0.5	1.1	1	logistique=0.1461, 6/50 erreurs=12%	réseau de neurones 424	2
+0.5	1.1	1	logistique=0.1453, 6/50 erreurs=12%	réseau de neurones 434	2
+0.5	1.1	1	logistique=0.1442, 6/50 erreurs=12%	réseau de neurones 445	2
+0.5	1.1	1	logistique=0.1433, 6/50 erreurs=12%	réseau de neurones 455	2
+0.5	1.1	1	logistique=0.1434, 6/50 erreurs=12%	réseau de neurones 465	2
+0.5	1.1	1	logistique=0.1429, 6/50 erreurs=12%	réseau de neurones 475	2
+0.5	1.1	1	logistique=0.1422, 6/50 erreurs=12%	réseau de neurones 485	2
+0.5	1.1	1	logistique=0.1420, 6/50 erreurs=12%	réseau de neurones 495	2
+0.5	1.1	1	logistique=0.1418, 6/50 erreurs=12%	réseau de neurones 505	2
+0.5	1.1	1	logistique=0.1411, 6/50 erreurs=12%	réseau de neurones 515	2
+0.5	1.1	1	logistique=0.1418, 6/50 erreurs=12%	réseau de neurones 525	2
+0.5	1.1	1	logistique=0.1411, 6/50 erreurs=12%	réseau de neurones 535	2
+0.5	1.1	1	logistique=0.1416, 5/50 erreurs=10%	réseau de neurones 545	2
+0.5	1.1	1	logistique=0.1409, 5/50 erreurs=10%	réseau de neurones 556	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 566	2
+0.5	1.1	1	logistique=0.1412, 5/50 erreurs=10%	réseau de neurones 576	2
+0.5	1.1	1	logistique=0.1406, 5/50 erreurs=10%	réseau de neurones 586	2
+0.5	1.1	1	logistique=0.1410, 5/50 erreurs=10%	réseau de neurones 596	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 606	2
+0.5	1.1	1	logistique=0.1411, 5/50 erreurs=10%	réseau de neurones 616	2
+0.5	1.1	1	logistique=0.1405, 5/50 erreurs=10%	réseau de neurones 626	2
+0.5	1.1	1	logistique=0.1408, 5/50 erreurs=10%	réseau de neurones 636	2
+0.5	1.1	1	logistique=0.1411, 5/50 erreurs=10%	réseau de neurones 646	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 656	2
+0.5	1.1	1	logistique=0.1414, 5/50 erreurs=10%	réseau de neurones 667	2
+0.5	1.1	1	logistique=0.1406, 5/50 erreurs=10%	réseau de neurones 677	2
+0.5	1.1	1	logistique=0.1408, 5/50 erreurs=10%	réseau de neurones 687	2
+0.5	1.1	1	logistique=0.1412, 5/50 erreurs=10%	réseau de neurones 697	2
+0.5	1.1	1	logistique=0.1414, 5/50 erreurs=10%	réseau de neurones 707	2
+0.5	1.1	1	logistique=0.1416, 5/50 erreurs=10%	réseau de neurones 717	2
+0.5	1.1	1	logistique=0.1416, 5/50 erreurs=10%	réseau de neurones 727	2
+0.5	1.1	1	logistique=0.1416, 5/50 erreurs=10%	réseau de neurones 737	2
+0.5	1.1	1	logistique=0.1414, 5/50 erreurs=10%	réseau de neurones 747	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 757	2
+0.5	1.1	1	logistique=0.1409, 5/50 erreurs=10%	réseau de neurones 767	2
+0.5	1.1	1	logistique=0.1407, 5/50 erreurs=10%	réseau de neurones 778	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 788	2
+0.5	1.1	1	logistique=0.1415, 5/50 erreurs=10%	réseau de neurones 798	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 808	2
+0.5	1.1	1	logistique=0.1410, 5/50 erreurs=10%	réseau de neurones 818	2
+0.5	1.1	1	logistique=0.1407, 5/50 erreurs=10%	réseau de neurones 828	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 838	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 848	2
+0.5	1.1	1	logistique=0.1411, 5/50 erreurs=10%	réseau de neurones 858	2
+0.5	1.1	1	logistique=0.1408, 5/50 erreurs=10%	réseau de neurones 868	2
+0.5	1.1	1	logistique=0.1403, 5/50 erreurs=10%	réseau de neurones 878	2
+0.5	1.1	1	logistique=0.1411, 5/50 erreurs=10%	réseau de neurones 889	2
+0.5	1.1	1	logistique=0.1412, 5/50 erreurs=10%	réseau de neurones 899	2
+0.5	1.1	1	logistique=0.1410, 5/50 erreurs=10%	réseau de neurones 909	2
+0.5	1.1	1	logistique=0.1405, 5/50 erreurs=10%	réseau de neurones 919	2
+0.5	1.1	1	logistique=0.1410, 5/50 erreurs=10%	réseau de neurones 929	2
+0.5	1.1	1	logistique=0.1413, 5/50 erreurs=10%	réseau de neurones 939	2
+0.5	1.1	1	logistique=0.1410, 5/50 erreurs=10%	réseau de neurones 949	2
+0.5	1.1	1	logistique=0.1404, 5/50 erreurs=10%	réseau de neurones 959	2
+0.5	1.1	1	logistique=0.1414, 5/50 erreurs=10%	réseau de neurones 969	2
+0.5	1.1	1	logistique=0.1411, 5/50 erreurs=10%	réseau de neurones 979	2
+0.5	1.1	1	logistique=0.1407, 5/50 erreurs=10%	réseau de neurones 989	2
+0.5	1.1	1	logistique=0.1412, 5/50 erreurs=10%	réseau de neurones 1000	2
+0.5	1.1	1	logistique=0.8623, 36/50 erreurs=72%	modèle linéaire 1	2
+0.5	1.1	1	logistique=0.5302, 9/50 erreurs=18%	modèle linéaire 11	2
+0.5	1.1	1	logistique=0.5008, 11/50 erreurs=22%	modèle linéaire 21	2
+0.5	1.1	1	logistique=0.4853, 11/50 erreurs=22%	modèle linéaire 31	2
+0.5	1.1	1	logistique=0.4725, 9/50 erreurs=18%	modèle linéaire 41	2
+0.5	1.1	1	logistique=0.4614, 8/50 erreurs=16%	modèle linéaire 51	2
+0.5	1.1	1	logistique=0.4515, 7/50 erreurs=14%	modèle linéaire 61	2
+0.5	1.1	1	logistique=0.4427, 7/50 erreurs=14%	modèle linéaire 71	2
+0.5	1.1	1	logistique=0.4347, 9/50 erreurs=18%	modèle linéaire 81	2
+0.5	1.1	1	logistique=0.4276, 8/50 erreurs=16%	modèle linéaire 91	2
+0.5	1.1	1	logistique=0.4211, 9/50 erreurs=18%	modèle linéaire 101	2
+0.5	1.1	1	logistique=0.4147, 9/50 erreurs=18%	modèle linéaire 112	2
+0.5	1.1	1	logistique=0.4094, 9/50 erreurs=18%	modèle linéaire 122	2
+0.5	1.1	1	logistique=0.4045, 8/50 erreurs=16%	modèle linéaire 132	2
+0.5	1.1	1	logistique=0.4001, 8/50 erreurs=16%	modèle linéaire 142	2
+0.5	1.1	1	logistique=0.3960, 8/50 erreurs=16%	modèle linéaire 152	2
+0.5	1.1	1	logistique=0.3922, 8/50 erreurs=16%	modèle linéaire 162	2
+0.5	1.1	1	logistique=0.3887, 8/50 erreurs=16%	modèle linéaire 172	2
+0.5	1.1	1	logistique=0.3855, 8/50 erreurs=16%	modèle linéaire 182	2
+0.5	1.1	1	logistique=0.3825, 8/50 erreurs=16%	modèle linéaire 192	2
+0.5	1.1	1	logistique=0.3798, 8/50 erreurs=16%	modèle linéaire 202	2
+0.5	1.1	1	logistique=0.3772, 8/50 erreurs=16%	modèle linéaire 212	2
+0.5	1.1	1	logistique=0.3745, 8/50 erreurs=16%	modèle linéaire 223	2
+0.5	1.1	1	logistique=0.3723, 8/50 erreurs=16%	modèle linéaire 233	2
+0.5	1.1	1	logistique=0.3702, 8/50 erreurs=16%	modèle linéaire 243	2
+0.5	1.1	1	logistique=0.3682, 8/50 erreurs=16%	modèle linéaire 253	2
+0.5	1.1	1	logistique=0.3664, 8/50 erreurs=16%	modèle linéaire 263	2
+0.5	1.1	1	logistique=0.3646, 8/50 erreurs=16%	modèle linéaire 273	2
+0.5	1.1	1	logistique=0.3630, 8/50 erreurs=16%	modèle linéaire 283	2
+0.5	1.1	1	logistique=0.3614, 8/50 erreurs=16%	modèle linéaire 293	2
+0.5	1.1	1	logistique=0.3600, 8/50 erreurs=16%	modèle linéaire 303	2
+0.5	1.1	1	logistique=0.3586, 8/50 erreurs=16%	modèle linéaire 313	2
+0.5	1.1	1	logistique=0.3573, 8/50 erreurs=16%	modèle linéaire 323	2
+0.5	1.1	1	logistique=0.3559, 7/50 erreurs=14%	modèle linéaire 334	2
+0.5	1.1	1	logistique=0.3548, 7/50 erreurs=14%	modèle linéaire 344	2
+0.5	1.1	1	logistique=0.3537, 7/50 erreurs=14%	modèle linéaire 354	2
+0.5	1.1	1	logistique=0.3526, 7/50 erreurs=14%	modèle linéaire 364	2
+0.5	1.1	1	logistique=0.3516, 7/50 erreurs=14%	modèle linéaire 374	2
+0.5	1.1	1	logistique=0.3507, 7/50 erreurs=14%	modèle linéaire 384	2
+0.5	1.1	1	logistique=0.3498, 7/50 erreurs=14%	modèle linéaire 394	2
+0.5	1.1	1	logistique=0.3489, 7/50 erreurs=14%	modèle linéaire 404	2
+0.5	1.1	1	logistique=0.3481, 7/50 erreurs=14%	modèle linéaire 414	2
+0.5	1.1	1	logistique=0.3473, 7/50 erreurs=14%	modèle linéaire 424	2
+0.5	1.1	1	logistique=0.3466, 7/50 erreurs=14%	modèle linéaire 434	2
+0.5	1.1	1	logistique=0.3458, 8/50 erreurs=16%	modèle linéaire 445	2
+0.5	1.1	1	logistique=0.3451, 8/50 erreurs=16%	modèle linéaire 455	2
+0.5	1.1	1	logistique=0.3444, 8/50 erreurs=16%	modèle linéaire 465	2
+0.5	1.1	1	logistique=0.3438, 8/50 erreurs=16%	modèle linéaire 475	2
+0.5	1.1	1	logistique=0.3432, 8/50 erreurs=16%	modèle linéaire 485	2
+0.5	1.1	1	logistique=0.3426, 8/50 erreurs=16%	modèle linéaire 495	2
+0.5	1.1	1	logistique=0.3421, 8/50 erreurs=16%	modèle linéaire 505	2
+0.5	1.1	1	logistique=0.3416, 8/50 erreurs=16%	modèle linéaire 515	2
+0.5	1.1	1	logistique=0.3411, 8/50 erreurs=16%	modèle linéaire 525	2
+0.5	1.1	1	logistique=0.3406, 8/50 erreurs=16%	modèle linéaire 535	2
+0.5	1.1	1	logistique=0.3401, 8/50 erreurs=16%	modèle linéaire 545	2
+0.5	1.1	1	logistique=0.3396, 8/50 erreurs=16%	modèle linéaire 556	2
+0.5	1.1	1	logistique=0.3392, 8/50 erreurs=16%	modèle linéaire 566	2
+0.5	1.1	1	logistique=0.3388, 8/50 erreurs=16%	modèle linéaire 576	2
+0.5	1.1	1	logistique=0.3384, 8/50 erreurs=16%	modèle linéaire 586	2
+0.5	1.1	1	logistique=0.3380, 8/50 erreurs=16%	modèle linéaire 596	2
+0.5	1.1	1	logistique=0.3376, 8/50 erreurs=16%	modèle linéaire 606	2
+0.5	1.1	1	logistique=0.3373, 8/50 erreurs=16%	modèle linéaire 616	2
+0.5	1.1	1	logistique=0.3369, 8/50 erreurs=16%	modèle linéaire 626	2
+0.5	1.1	1	logistique=0.3366, 8/50 erreurs=16%	modèle linéaire 636	2
+0.5	1.1	1	logistique=0.3363, 8/50 erreurs=16%	modèle linéaire 646	2
+0.5	1.1	1	logistique=0.3360, 8/50 erreurs=16%	modèle linéaire 656	2
+0.5	1.1	1	logistique=0.3357, 8/50 erreurs=16%	modèle linéaire 667	2
+0.5	1.1	1	logistique=0.3354, 8/50 erreurs=16%	modèle linéaire 677	2
+0.5	1.1	1	logistique=0.3351, 8/50 erreurs=16%	modèle linéaire 687	2
+0.5	1.1	1	logistique=0.3348, 8/50 erreurs=16%	modèle linéaire 697	2
+0.5	1.1	1	logistique=0.3346, 8/50 erreurs=16%	modèle linéaire 707	2
+0.5	1.1	1	logistique=0.3343, 8/50 erreurs=16%	modèle linéaire 717	2
+0.5	1.1	1	logistique=0.3341, 8/50 erreurs=16%	modèle linéaire 727	2
+0.5	1.1	1	logistique=0.3339, 8/50 erreurs=16%	modèle linéaire 737	2
+0.5	1.1	1	logistique=0.3336, 8/50 erreurs=16%	modèle linéaire 747	2
+0.5	1.1	1	logistique=0.3334, 8/50 erreurs=16%	modèle linéaire 757	2
+0.5	1.1	1	logistique=0.3332, 8/50 erreurs=16%	modèle linéaire 767	2
+0.5	1.1	1	logistique=0.3330, 8/50 erreurs=16%	modèle linéaire 778	2
+0.5	1.1	1	logistique=0.3328, 8/50 erreurs=16%	modèle linéaire 788	2
+0.5	1.1	1	logistique=0.3326, 8/50 erreurs=16%	modèle linéaire 798	2
+0.5	1.1	1	logistique=0.3324, 8/50 erreurs=16%	modèle linéaire 808	2
+0.5	1.1	1	logistique=0.3322, 8/50 erreurs=16%	modèle linéaire 818	2
+0.5	1.1	1	logistique=0.3321, 8/50 erreurs=16%	modèle linéaire 828	2
+0.5	1.1	1	logistique=0.3319, 8/50 erreurs=16%	modèle linéaire 838	2
+0.5	1.1	1	logistique=0.3317, 8/50 erreurs=16%	modèle linéaire 848	2
+0.5	1.1	1	logistique=0.3316, 8/50 erreurs=16%	modèle linéaire 858	2
+0.5	1.1	1	logistique=0.3314, 8/50 erreurs=16%	modèle linéaire 868	2
+0.5	1.1	1	logistique=0.3313, 8/50 erreurs=16%	modèle linéaire 878	2
+0.5	1.1	1	logistique=0.3311, 8/50 erreurs=16%	modèle linéaire 889	2
+0.5	1.1	1	logistique=0.3310, 8/50 erreurs=16%	modèle linéaire 899	2
+0.5	1.1	1	logistique=0.3309, 8/50 erreurs=16%	modèle linéaire 909	2
+0.5	1.1	1	logistique=0.3307, 8/50 erreurs=16%	modèle linéaire 919	2
+0.5	1.1	1	logistique=0.3306, 8/50 erreurs=16%	modèle linéaire 929	2
+0.5	1.1	1	logistique=0.3305, 8/50 erreurs=16%	modèle linéaire 939	2
+0.5	1.1	1	logistique=0.3304, 8/50 erreurs=16%	modèle linéaire 949	2
+0.5	1.1	1	logistique=0.3302, 8/50 erreurs=16%	modèle linéaire 959	2
+0.5	1.1	1	logistique=0.3301, 8/50 erreurs=16%	modèle linéaire 969	2
+0.5	1.1	1	logistique=0.3300, 8/50 erreurs=16%	modèle linéaire 979	2
+0.5	1.1	1	logistique=0.3299, 8/50 erreurs=16%	modèle linéaire 989	2
+0.5	1.1	1	logistique=0.3298, 8/50 erreurs=16%	modèle linéaire 1000	2

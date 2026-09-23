@@ -1,0 +1,3145 @@
+{
+ "geoms": {
+ "geom1_line_loss": {
+ "geom": "line",
+"classed": "geom1_line_loss",
+"aes": {
+"x": "iteration",
+"y": "value",
+"colour": "ensemble",
+"group": "ensemble",
+"showSelected1": "ensemble"
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"showSelected": "ensemble",
+"help_showSelected": "ensemble" 
+},
+"types": {
+"colour": "rgb",
+"y": "numeric",
+"x": "numeric",
+"group": "character",
+"showSelected1": "character",
+"PANEL": "factor"
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL",
+"group" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1,
+"chunk_info": {
+ "geom1_line_loss_chunk1.tsv": {
+ "bytes":   382724,
+"rows": 8000 
+} 
+} 
+},
+"geom2_point_loss": {
+ "geom": "point",
+"classed": "geom2_point_loss",
+"aes": {
+"x": "iteration",
+"y": "value",
+"fill": "ensemble",
+"showSelected1": "ensemble"
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"shape":       21,
+"colour": "#000000",
+"showSelected": "ensemble",
+"help_showSelected": "ensemble" 
+},
+"types": {
+"fill": "rgb",
+"y": "numeric",
+"x": "numeric",
+"showSelected1": "character",
+"PANEL": "factor",
+"group": "character"
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1,
+"chunk_info": {
+ "geom2_point_loss_chunk1.tsv": {
+ "bytes":      404,
+"rows": 8 
+} 
+} 
+},
+"geom3_tallrect_loss": {
+ "geom": "tallrect",
+"classed": "geom3_tallrect_loss",
+"aes": {
+"xmin": "iteration - 0.5",
+"xmax": "iteration + 0.5",
+"clickSelects": "modèle.itération"
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"alpha":      0.5,
+"clickSelects": "modèle.itération",
+"help_clickSelects": "modèle.itération" 
+},
+"types": {
+"xmin": "numeric",
+"xmax": "numeric",
+"clickSelects": "factor",
+"PANEL": "factor",
+"group": "character"
+},
+"chunk_order": [],
+"nest_order": [
+ "PANEL" 
+],
+"subset_order": [
+ "PANEL" 
+],
+"chunks": 1,
+"total": 1,
+"chunk_info": {
+ "geom3_tallrect_loss_chunk1.tsv": {
+ "bytes":    14705,
+"rows": 400 
+} 
+} 
+},
+"geom4_tile_data": {
+ "geom": "rect",
+"classed": "geom4_tile_data",
+"aes": {
+"x": "V1",
+"y": "V2",
+"key": "tile.i",
+"group": "tile.i",
+"fill": "norm.pred",
+"showSelected1": "modèle.itération"
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"colour": "transparent",
+"showSelected": "modèle.itération",
+"help_showSelected": "modèle.itération" 
+},
+"types": {
+"fill": "rgb",
+"x": "numeric",
+"y": "numeric",
+"key": "integer",
+"group": "character",
+"showSelected1": "factor",
+"PANEL": "factor",
+"xmin": "numeric",
+"xmax": "numeric",
+"ymin": "numeric",
+"ymax": "numeric"
+},
+"chunk_order": [
+ "modèle.itération" 
+],
+"nest_order": [
+ "PANEL" 
+],
+"subset_order": [
+ "PANEL" 
+],
+"columns": {
+ "common": [
+ "group",
+"PANEL",
+"key",
+"x",
+"xmax",
+"xmin",
+"y",
+"ymax",
+"ymin" 
+] 
+},
+"chunks": {
+ "modèle linéaire 1": 1,
+"modèle linéaire 1000": 2,
+"modèle linéaire 101": 3,
+"modèle linéaire 11": 4,
+"modèle linéaire 112": 5,
+"modèle linéaire 122": 6,
+"modèle linéaire 132": 7,
+"modèle linéaire 142": 8,
+"modèle linéaire 152": 9,
+"modèle linéaire 162": 10,
+"modèle linéaire 172": 11,
+"modèle linéaire 182": 12,
+"modèle linéaire 192": 13,
+"modèle linéaire 202": 14,
+"modèle linéaire 21": 15,
+"modèle linéaire 212": 16,
+"modèle linéaire 223": 17,
+"modèle linéaire 233": 18,
+"modèle linéaire 243": 19,
+"modèle linéaire 253": 20,
+"modèle linéaire 263": 21,
+"modèle linéaire 273": 22,
+"modèle linéaire 283": 23,
+"modèle linéaire 293": 24,
+"modèle linéaire 303": 25,
+"modèle linéaire 31": 26,
+"modèle linéaire 313": 27,
+"modèle linéaire 323": 28,
+"modèle linéaire 334": 29,
+"modèle linéaire 344": 30,
+"modèle linéaire 354": 31,
+"modèle linéaire 364": 32,
+"modèle linéaire 374": 33,
+"modèle linéaire 384": 34,
+"modèle linéaire 394": 35,
+"modèle linéaire 404": 36,
+"modèle linéaire 41": 37,
+"modèle linéaire 414": 38,
+"modèle linéaire 424": 39,
+"modèle linéaire 434": 40,
+"modèle linéaire 445": 41,
+"modèle linéaire 455": 42,
+"modèle linéaire 465": 43,
+"modèle linéaire 475": 44,
+"modèle linéaire 485": 45,
+"modèle linéaire 495": 46,
+"modèle linéaire 505": 47,
+"modèle linéaire 51": 48,
+"modèle linéaire 515": 49,
+"modèle linéaire 525": 50,
+"modèle linéaire 535": 51,
+"modèle linéaire 545": 52,
+"modèle linéaire 556": 53,
+"modèle linéaire 566": 54,
+"modèle linéaire 576": 55,
+"modèle linéaire 586": 56,
+"modèle linéaire 596": 57,
+"modèle linéaire 606": 58,
+"modèle linéaire 61": 59,
+"modèle linéaire 616": 60,
+"modèle linéaire 626": 61,
+"modèle linéaire 636": 62,
+"modèle linéaire 646": 63,
+"modèle linéaire 656": 64,
+"modèle linéaire 667": 65,
+"modèle linéaire 677": 66,
+"modèle linéaire 687": 67,
+"modèle linéaire 697": 68,
+"modèle linéaire 707": 69,
+"modèle linéaire 71": 70,
+"modèle linéaire 717": 71,
+"modèle linéaire 727": 72,
+"modèle linéaire 737": 73,
+"modèle linéaire 747": 74,
+"modèle linéaire 757": 75,
+"modèle linéaire 767": 76,
+"modèle linéaire 778": 77,
+"modèle linéaire 788": 78,
+"modèle linéaire 798": 79,
+"modèle linéaire 808": 80,
+"modèle linéaire 81": 81,
+"modèle linéaire 818": 82,
+"modèle linéaire 828": 83,
+"modèle linéaire 838": 84,
+"modèle linéaire 848": 85,
+"modèle linéaire 858": 86,
+"modèle linéaire 868": 87,
+"modèle linéaire 878": 88,
+"modèle linéaire 889": 89,
+"modèle linéaire 899": 90,
+"modèle linéaire 909": 91,
+"modèle linéaire 91": 92,
+"modèle linéaire 919": 93,
+"modèle linéaire 929": 94,
+"modèle linéaire 939": 95,
+"modèle linéaire 949": 96,
+"modèle linéaire 959": 97,
+"modèle linéaire 969": 98,
+"modèle linéaire 979": 99,
+"modèle linéaire 989": 100,
+"réseau de neurones 1": 101,
+"réseau de neurones 1000": 102,
+"réseau de neurones 101": 103,
+"réseau de neurones 11": 104,
+"réseau de neurones 112": 105,
+"réseau de neurones 122": 106,
+"réseau de neurones 132": 107,
+"réseau de neurones 142": 108,
+"réseau de neurones 152": 109,
+"réseau de neurones 162": 110,
+"réseau de neurones 172": 111,
+"réseau de neurones 182": 112,
+"réseau de neurones 192": 113,
+"réseau de neurones 202": 114,
+"réseau de neurones 21": 115,
+"réseau de neurones 212": 116,
+"réseau de neurones 223": 117,
+"réseau de neurones 233": 118,
+"réseau de neurones 243": 119,
+"réseau de neurones 253": 120,
+"réseau de neurones 263": 121,
+"réseau de neurones 273": 122,
+"réseau de neurones 283": 123,
+"réseau de neurones 293": 124,
+"réseau de neurones 303": 125,
+"réseau de neurones 31": 126,
+"réseau de neurones 313": 127,
+"réseau de neurones 323": 128,
+"réseau de neurones 334": 129,
+"réseau de neurones 344": 130,
+"réseau de neurones 354": 131,
+"réseau de neurones 364": 132,
+"réseau de neurones 374": 133,
+"réseau de neurones 384": 134,
+"réseau de neurones 394": 135,
+"réseau de neurones 404": 136,
+"réseau de neurones 41": 137,
+"réseau de neurones 414": 138,
+"réseau de neurones 424": 139,
+"réseau de neurones 434": 140,
+"réseau de neurones 445": 141,
+"réseau de neurones 455": 142,
+"réseau de neurones 465": 143,
+"réseau de neurones 475": 144,
+"réseau de neurones 485": 145,
+"réseau de neurones 495": 146,
+"réseau de neurones 505": 147,
+"réseau de neurones 51": 148,
+"réseau de neurones 515": 149,
+"réseau de neurones 525": 150,
+"réseau de neurones 535": 151,
+"réseau de neurones 545": 152,
+"réseau de neurones 556": 153,
+"réseau de neurones 566": 154,
+"réseau de neurones 576": 155,
+"réseau de neurones 586": 156,
+"réseau de neurones 596": 157,
+"réseau de neurones 606": 158,
+"réseau de neurones 61": 159,
+"réseau de neurones 616": 160,
+"réseau de neurones 626": 161,
+"réseau de neurones 636": 162,
+"réseau de neurones 646": 163,
+"réseau de neurones 656": 164,
+"réseau de neurones 667": 165,
+"réseau de neurones 677": 166,
+"réseau de neurones 687": 167,
+"réseau de neurones 697": 168,
+"réseau de neurones 707": 169,
+"réseau de neurones 71": 170,
+"réseau de neurones 717": 171,
+"réseau de neurones 727": 172,
+"réseau de neurones 737": 173,
+"réseau de neurones 747": 174,
+"réseau de neurones 757": 175,
+"réseau de neurones 767": 176,
+"réseau de neurones 778": 177,
+"réseau de neurones 788": 178,
+"réseau de neurones 798": 179,
+"réseau de neurones 808": 180,
+"réseau de neurones 81": 181,
+"réseau de neurones 818": 182,
+"réseau de neurones 828": 183,
+"réseau de neurones 838": 184,
+"réseau de neurones 848": 185,
+"réseau de neurones 858": 186,
+"réseau de neurones 868": 187,
+"réseau de neurones 878": 188,
+"réseau de neurones 889": 189,
+"réseau de neurones 899": 190,
+"réseau de neurones 909": 191,
+"réseau de neurones 91": 192,
+"réseau de neurones 919": 193,
+"réseau de neurones 929": 194,
+"réseau de neurones 939": 195,
+"réseau de neurones 949": 196,
+"réseau de neurones 959": 197,
+"réseau de neurones 969": 198,
+"réseau de neurones 979": 199,
+"réseau de neurones 989": 200 
+},
+"total": 200,
+"chunk_info": {
+ "geom4_tile_data_chunk_common.tsv": {
+ "bytes":   212008,
+"rows": 1800 
+},
+"geom4_tile_data_chunk1.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk2.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk3.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk4.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk5.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk6.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk7.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk8.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk9.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk10.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk11.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk12.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk13.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk14.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk15.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk16.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk17.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk18.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk19.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk20.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk21.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk22.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk23.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk24.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk25.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk26.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk27.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk28.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk29.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk30.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk31.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk32.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk33.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk34.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk35.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk36.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk37.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk38.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk39.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk40.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk41.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk42.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk43.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk44.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk45.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk46.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk47.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk48.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk49.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk50.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk51.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk52.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk53.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk54.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk55.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk56.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk57.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk58.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk59.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk60.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk61.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk62.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk63.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk64.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk65.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk66.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk67.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk68.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk69.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk70.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk71.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk72.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk73.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk74.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk75.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk76.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk77.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk78.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk79.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk80.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk81.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk82.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk83.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk84.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk85.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk86.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk87.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk88.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk89.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk90.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk91.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk92.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk93.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk94.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk95.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk96.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk97.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk98.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk99.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk100.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk101.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk102.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk103.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk104.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk105.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk106.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk107.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk108.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk109.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk110.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk111.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk112.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk113.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk114.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk115.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk116.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk117.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk118.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk119.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk120.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk121.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk122.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk123.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk124.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk125.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk126.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk127.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk128.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk129.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk130.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk131.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk132.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk133.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk134.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk135.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk136.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk137.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk138.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk139.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk140.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk141.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk142.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk143.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk144.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk145.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk146.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk147.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk148.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk149.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk150.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk151.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk152.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk153.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk154.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk155.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk156.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk157.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk158.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk159.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk160.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk161.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk162.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk163.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk164.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk165.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk166.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk167.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk168.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk169.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk170.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk171.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk172.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk173.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk174.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk175.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk176.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk177.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk178.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk179.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk180.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk181.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk182.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk183.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk184.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk185.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk186.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk187.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk188.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk189.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk190.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk191.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk192.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk193.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk194.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk195.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk196.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk197.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk198.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk199.tsv": {
+ "bytes":    10703,
+"rows": 900 
+},
+"geom4_tile_data_chunk200.tsv": {
+ "bytes":    10703,
+"rows": 900 
+} 
+} 
+},
+"geom5_text_data": {
+ "geom": "text",
+"classed": "geom5_text_data",
+"aes": {
+"x": "0.5",
+"y": "1.1",
+"key": "1",
+"label": "sprintf(\"logistique=%.4f, %d/%d erreurs=%.0f%%\", logistique, as.integer(error.count), as.integer(n.ensemble), `pourcent erroné`)",
+"showSelected1": "modèle.itération"
+},
+"params": {
+ "parse": false,
+"check_overlap": false,
+"na.rm": false,
+"na.rm": false,
+"showSelected": "modèle.itération",
+"help_showSelected": "modèle.itération" 
+},
+"types": {
+"x": "numeric",
+"y": "numeric",
+"key": "numeric",
+"label": "character",
+"showSelected1": "factor",
+"PANEL": "factor",
+"group": "character"
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1,
+"chunk_info": {
+ "geom5_text_data_chunk1.tsv": {
+ "bytes":    28408,
+"rows": 400 
+} 
+} 
+},
+"geom6_path_data": {
+ "geom": "path",
+"classed": "geom6_path_data",
+"aes": {
+"x": "x",
+"y": "y",
+"group": "contour.i",
+"key": "contour.i",
+"showSelected1": "modèle.itération"
+},
+"params": {
+ "lineend": "butt",
+"linejoin": "round",
+"linemitre":        1,
+"na.rm": false,
+"na.rm": false,
+"colour": "#7F7F7F",
+"showSelected": "modèle.itération",
+"help_showSelected": "modèle.itération" 
+},
+"types": {
+"x": "numeric",
+"y": "numeric",
+"group": "character",
+"key": "integer",
+"showSelected1": "factor",
+"PANEL": "factor"
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"PANEL",
+"group" 
+],
+"subset_order": [
+ "showSelected1",
+"PANEL" 
+],
+"chunks": 1,
+"total": 1,
+"chunk_info": {
+ "geom6_path_data_chunk1.tsv": {
+ "bytes":  1242448,
+"rows": 19728 
+} 
+} 
+},
+"geom7_point_data": {
+ "geom": "point",
+"classed": "geom7_point_data",
+"aes": {
+"x": "V1",
+"y": "V2",
+"key": "data.i",
+"group": "data.i",
+"fill": "label/2",
+"colour": "exactitude",
+"showSelected1": "modèle.itération",
+"showSelected2": "ensemble",
+"showSelected3": "exactitude"
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"size":        4,
+"showSelected": [ "modèle.itération", "ensemble", "exactitude" ],
+"help_showSelected": [ "modèle.itération", "ensemble", "exactitude" ] 
+},
+"types": {
+"fill": "rgb",
+"colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"key": "integer",
+"group": "character",
+"showSelected1": "factor",
+"showSelected2": "character",
+"showSelected3": "character",
+"PANEL": "factor"
+},
+"chunk_order": [
+ "modèle.itération" 
+],
+"nest_order": [
+ "showSelected2",
+"showSelected3",
+"PANEL" 
+],
+"subset_order": [
+ "showSelected2",
+"showSelected3",
+"PANEL" 
+],
+"columns": {
+ "common": [
+ "group",
+"PANEL",
+"fill",
+"key",
+"showSelected2",
+"x",
+"y" 
+] 
+},
+"chunks": {
+ "modèle linéaire 1": 1,
+"modèle linéaire 1000": 2,
+"modèle linéaire 101": 3,
+"modèle linéaire 11": 4,
+"modèle linéaire 112": 5,
+"modèle linéaire 122": 6,
+"modèle linéaire 132": 7,
+"modèle linéaire 142": 8,
+"modèle linéaire 152": 9,
+"modèle linéaire 162": 10,
+"modèle linéaire 172": 11,
+"modèle linéaire 182": 12,
+"modèle linéaire 192": 13,
+"modèle linéaire 202": 14,
+"modèle linéaire 21": 15,
+"modèle linéaire 212": 16,
+"modèle linéaire 223": 17,
+"modèle linéaire 233": 18,
+"modèle linéaire 243": 19,
+"modèle linéaire 253": 20,
+"modèle linéaire 263": 21,
+"modèle linéaire 273": 22,
+"modèle linéaire 283": 23,
+"modèle linéaire 293": 24,
+"modèle linéaire 303": 25,
+"modèle linéaire 31": 26,
+"modèle linéaire 313": 27,
+"modèle linéaire 323": 28,
+"modèle linéaire 334": 29,
+"modèle linéaire 344": 30,
+"modèle linéaire 354": 31,
+"modèle linéaire 364": 32,
+"modèle linéaire 374": 33,
+"modèle linéaire 384": 34,
+"modèle linéaire 394": 35,
+"modèle linéaire 404": 36,
+"modèle linéaire 41": 37,
+"modèle linéaire 414": 38,
+"modèle linéaire 424": 39,
+"modèle linéaire 434": 40,
+"modèle linéaire 445": 41,
+"modèle linéaire 455": 42,
+"modèle linéaire 465": 43,
+"modèle linéaire 475": 44,
+"modèle linéaire 485": 45,
+"modèle linéaire 495": 46,
+"modèle linéaire 505": 47,
+"modèle linéaire 51": 48,
+"modèle linéaire 515": 49,
+"modèle linéaire 525": 50,
+"modèle linéaire 535": 51,
+"modèle linéaire 545": 52,
+"modèle linéaire 556": 53,
+"modèle linéaire 566": 54,
+"modèle linéaire 576": 55,
+"modèle linéaire 586": 56,
+"modèle linéaire 596": 57,
+"modèle linéaire 606": 58,
+"modèle linéaire 61": 59,
+"modèle linéaire 616": 60,
+"modèle linéaire 626": 61,
+"modèle linéaire 636": 62,
+"modèle linéaire 646": 63,
+"modèle linéaire 656": 64,
+"modèle linéaire 667": 65,
+"modèle linéaire 677": 66,
+"modèle linéaire 687": 67,
+"modèle linéaire 697": 68,
+"modèle linéaire 707": 69,
+"modèle linéaire 71": 70,
+"modèle linéaire 717": 71,
+"modèle linéaire 727": 72,
+"modèle linéaire 737": 73,
+"modèle linéaire 747": 74,
+"modèle linéaire 757": 75,
+"modèle linéaire 767": 76,
+"modèle linéaire 778": 77,
+"modèle linéaire 788": 78,
+"modèle linéaire 798": 79,
+"modèle linéaire 808": 80,
+"modèle linéaire 81": 81,
+"modèle linéaire 818": 82,
+"modèle linéaire 828": 83,
+"modèle linéaire 838": 84,
+"modèle linéaire 848": 85,
+"modèle linéaire 858": 86,
+"modèle linéaire 868": 87,
+"modèle linéaire 878": 88,
+"modèle linéaire 889": 89,
+"modèle linéaire 899": 90,
+"modèle linéaire 909": 91,
+"modèle linéaire 91": 92,
+"modèle linéaire 919": 93,
+"modèle linéaire 929": 94,
+"modèle linéaire 939": 95,
+"modèle linéaire 949": 96,
+"modèle linéaire 959": 97,
+"modèle linéaire 969": 98,
+"modèle linéaire 979": 99,
+"modèle linéaire 989": 100,
+"réseau de neurones 1": 101,
+"réseau de neurones 1000": 102,
+"réseau de neurones 101": 103,
+"réseau de neurones 11": 104,
+"réseau de neurones 112": 105,
+"réseau de neurones 122": 106,
+"réseau de neurones 132": 107,
+"réseau de neurones 142": 108,
+"réseau de neurones 152": 109,
+"réseau de neurones 162": 110,
+"réseau de neurones 172": 111,
+"réseau de neurones 182": 112,
+"réseau de neurones 192": 113,
+"réseau de neurones 202": 114,
+"réseau de neurones 21": 115,
+"réseau de neurones 212": 116,
+"réseau de neurones 223": 117,
+"réseau de neurones 233": 118,
+"réseau de neurones 243": 119,
+"réseau de neurones 253": 120,
+"réseau de neurones 263": 121,
+"réseau de neurones 273": 122,
+"réseau de neurones 283": 123,
+"réseau de neurones 293": 124,
+"réseau de neurones 303": 125,
+"réseau de neurones 31": 126,
+"réseau de neurones 313": 127,
+"réseau de neurones 323": 128,
+"réseau de neurones 334": 129,
+"réseau de neurones 344": 130,
+"réseau de neurones 354": 131,
+"réseau de neurones 364": 132,
+"réseau de neurones 374": 133,
+"réseau de neurones 384": 134,
+"réseau de neurones 394": 135,
+"réseau de neurones 404": 136,
+"réseau de neurones 41": 137,
+"réseau de neurones 414": 138,
+"réseau de neurones 424": 139,
+"réseau de neurones 434": 140,
+"réseau de neurones 445": 141,
+"réseau de neurones 455": 142,
+"réseau de neurones 465": 143,
+"réseau de neurones 475": 144,
+"réseau de neurones 485": 145,
+"réseau de neurones 495": 146,
+"réseau de neurones 505": 147,
+"réseau de neurones 51": 148,
+"réseau de neurones 515": 149,
+"réseau de neurones 525": 150,
+"réseau de neurones 535": 151,
+"réseau de neurones 545": 152,
+"réseau de neurones 556": 153,
+"réseau de neurones 566": 154,
+"réseau de neurones 576": 155,
+"réseau de neurones 586": 156,
+"réseau de neurones 596": 157,
+"réseau de neurones 606": 158,
+"réseau de neurones 61": 159,
+"réseau de neurones 616": 160,
+"réseau de neurones 626": 161,
+"réseau de neurones 636": 162,
+"réseau de neurones 646": 163,
+"réseau de neurones 656": 164,
+"réseau de neurones 667": 165,
+"réseau de neurones 677": 166,
+"réseau de neurones 687": 167,
+"réseau de neurones 697": 168,
+"réseau de neurones 707": 169,
+"réseau de neurones 71": 170,
+"réseau de neurones 717": 171,
+"réseau de neurones 727": 172,
+"réseau de neurones 737": 173,
+"réseau de neurones 747": 174,
+"réseau de neurones 757": 175,
+"réseau de neurones 767": 176,
+"réseau de neurones 778": 177,
+"réseau de neurones 788": 178,
+"réseau de neurones 798": 179,
+"réseau de neurones 808": 180,
+"réseau de neurones 81": 181,
+"réseau de neurones 818": 182,
+"réseau de neurones 828": 183,
+"réseau de neurones 838": 184,
+"réseau de neurones 848": 185,
+"réseau de neurones 858": 186,
+"réseau de neurones 868": 187,
+"réseau de neurones 878": 188,
+"réseau de neurones 889": 189,
+"réseau de neurones 899": 190,
+"réseau de neurones 909": 191,
+"réseau de neurones 91": 192,
+"réseau de neurones 919": 193,
+"réseau de neurones 929": 194,
+"réseau de neurones 939": 195,
+"réseau de neurones 949": 196,
+"réseau de neurones 959": 197,
+"réseau de neurones 969": 198,
+"réseau de neurones 979": 199,
+"réseau de neurones 989": 200 
+},
+"total": 200,
+"chunk_info": {
+ "geom7_point_data_chunk_common.tsv": {
+ "bytes":    13395,
+"rows": 200 
+},
+"geom7_point_data_chunk1.tsv": {
+ "bytes":     2978,
+"rows": 148 
+},
+"geom7_point_data_chunk2.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk3.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk4.tsv": {
+ "bytes":     2777,
+"rows": 138 
+},
+"geom7_point_data_chunk5.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk6.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk7.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk8.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk9.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk10.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk11.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk12.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk13.tsv": {
+ "bytes":     2697,
+"rows": 134 
+},
+"geom7_point_data_chunk14.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk15.tsv": {
+ "bytes":     2977,
+"rows": 148 
+},
+"geom7_point_data_chunk16.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk17.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk18.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk19.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk20.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk21.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk22.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk23.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk24.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk25.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk26.tsv": {
+ "bytes":     2857,
+"rows": 142 
+},
+"geom7_point_data_chunk27.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk28.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk29.tsv": {
+ "bytes":     2578,
+"rows": 128 
+},
+"geom7_point_data_chunk30.tsv": {
+ "bytes":     2578,
+"rows": 128 
+},
+"geom7_point_data_chunk31.tsv": {
+ "bytes":     2538,
+"rows": 126 
+},
+"geom7_point_data_chunk32.tsv": {
+ "bytes":     2538,
+"rows": 126 
+},
+"geom7_point_data_chunk33.tsv": {
+ "bytes":     2538,
+"rows": 126 
+},
+"geom7_point_data_chunk34.tsv": {
+ "bytes":     2538,
+"rows": 126 
+},
+"geom7_point_data_chunk35.tsv": {
+ "bytes":     2538,
+"rows": 126 
+},
+"geom7_point_data_chunk36.tsv": {
+ "bytes":     2579,
+"rows": 128 
+},
+"geom7_point_data_chunk37.tsv": {
+ "bytes":     2738,
+"rows": 136 
+},
+"geom7_point_data_chunk38.tsv": {
+ "bytes":     2579,
+"rows": 128 
+},
+"geom7_point_data_chunk39.tsv": {
+ "bytes":     2579,
+"rows": 128 
+},
+"geom7_point_data_chunk40.tsv": {
+ "bytes":     2579,
+"rows": 128 
+},
+"geom7_point_data_chunk41.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk42.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk43.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk44.tsv": {
+ "bytes":     2578,
+"rows": 128 
+},
+"geom7_point_data_chunk45.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk46.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk47.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk48.tsv": {
+ "bytes":     2738,
+"rows": 136 
+},
+"geom7_point_data_chunk49.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk50.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk51.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk52.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk53.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk54.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk55.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk56.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk57.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk58.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk59.tsv": {
+ "bytes":     2658,
+"rows": 132 
+},
+"geom7_point_data_chunk60.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk61.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk62.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk63.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk64.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk65.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk66.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk67.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk68.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk69.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk70.tsv": {
+ "bytes":     2617,
+"rows": 130 
+},
+"geom7_point_data_chunk71.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk72.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk73.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk74.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk75.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk76.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk77.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk78.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk79.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk80.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk81.tsv": {
+ "bytes":     2656,
+"rows": 132 
+},
+"geom7_point_data_chunk82.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk83.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk84.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk85.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk86.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk87.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk88.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk89.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk90.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk91.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk92.tsv": {
+ "bytes":     2657,
+"rows": 132 
+},
+"geom7_point_data_chunk93.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk94.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk95.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk96.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk97.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk98.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk99.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk100.tsv": {
+ "bytes":     2618,
+"rows": 130 
+},
+"geom7_point_data_chunk101.tsv": {
+ "bytes":     2777,
+"rows": 138 
+},
+"geom7_point_data_chunk102.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk103.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk104.tsv": {
+ "bytes":     2857,
+"rows": 142 
+},
+"geom7_point_data_chunk105.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk106.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk107.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk108.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk109.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk110.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk111.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk112.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk113.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk114.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk115.tsv": {
+ "bytes":     2777,
+"rows": 138 
+},
+"geom7_point_data_chunk116.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk117.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk118.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk119.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk120.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk121.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk122.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk123.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk124.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk125.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk126.tsv": {
+ "bytes":     2538,
+"rows": 126 
+},
+"geom7_point_data_chunk127.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk128.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk129.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk130.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk131.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk132.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk133.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk134.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk135.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk136.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk137.tsv": {
+ "bytes":     2458,
+"rows": 122 
+},
+"geom7_point_data_chunk138.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk139.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk140.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk141.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk142.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk143.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk144.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk145.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk146.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk147.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk148.tsv": {
+ "bytes":     2377,
+"rows": 118 
+},
+"geom7_point_data_chunk149.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk150.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk151.tsv": {
+ "bytes":     2257,
+"rows": 112 
+},
+"geom7_point_data_chunk152.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk153.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk154.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk155.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk156.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk157.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk158.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk159.tsv": {
+ "bytes":     2337,
+"rows": 116 
+},
+"geom7_point_data_chunk160.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk161.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk162.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk163.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk164.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk165.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk166.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk167.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk168.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk169.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk170.tsv": {
+ "bytes":     2337,
+"rows": 116 
+},
+"geom7_point_data_chunk171.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk172.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk173.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk174.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk175.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk176.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk177.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk178.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk179.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk180.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk181.tsv": {
+ "bytes":     2337,
+"rows": 116 
+},
+"geom7_point_data_chunk182.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk183.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk184.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk185.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk186.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk187.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk188.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk189.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk190.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk191.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk192.tsv": {
+ "bytes":     2297,
+"rows": 114 
+},
+"geom7_point_data_chunk193.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk194.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk195.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk196.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk197.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk198.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk199.tsv": {
+ "bytes":     2217,
+"rows": 110 
+},
+"geom7_point_data_chunk200.tsv": {
+ "bytes":     2217,
+"rows": 110 
+} 
+} 
+} 
+},
+"time": {
+ "variable": "modèle.itération",
+"ms":      500,
+"sequence": [ "réseau de neurones 1", "réseau de neurones 11", "réseau de neurones 21", "réseau de neurones 31", "réseau de neurones 41", "réseau de neurones 51", "réseau de neurones 61", "réseau de neurones 71", "réseau de neurones 81", "réseau de neurones 91", "réseau de neurones 101", "réseau de neurones 112", "réseau de neurones 122", "réseau de neurones 132", "réseau de neurones 142", "réseau de neurones 152", "réseau de neurones 162", "réseau de neurones 172", "réseau de neurones 182", "réseau de neurones 192", "réseau de neurones 202", "réseau de neurones 212", "réseau de neurones 223", "réseau de neurones 233", "réseau de neurones 243", "réseau de neurones 253", "réseau de neurones 263", "réseau de neurones 273", "réseau de neurones 283", "réseau de neurones 293", "réseau de neurones 303", "réseau de neurones 313", "réseau de neurones 323", "réseau de neurones 334", "réseau de neurones 344", "réseau de neurones 354", "réseau de neurones 364", "réseau de neurones 374", "réseau de neurones 384", "réseau de neurones 394", "réseau de neurones 404", "réseau de neurones 414", "réseau de neurones 424", "réseau de neurones 434", "réseau de neurones 445", "réseau de neurones 455", "réseau de neurones 465", "réseau de neurones 475", "réseau de neurones 485", "réseau de neurones 495", "réseau de neurones 505", "réseau de neurones 515", "réseau de neurones 525", "réseau de neurones 535", "réseau de neurones 545", "réseau de neurones 556", "réseau de neurones 566", "réseau de neurones 576", "réseau de neurones 586", "réseau de neurones 596", "réseau de neurones 606", "réseau de neurones 616", "réseau de neurones 626", "réseau de neurones 636", "réseau de neurones 646", "réseau de neurones 656", "réseau de neurones 667", "réseau de neurones 677", "réseau de neurones 687", "réseau de neurones 697", "réseau de neurones 707", "réseau de neurones 717", "réseau de neurones 727", "réseau de neurones 737", "réseau de neurones 747", "réseau de neurones 757", "réseau de neurones 767", "réseau de neurones 778", "réseau de neurones 788", "réseau de neurones 798", "réseau de neurones 808", "réseau de neurones 818", "réseau de neurones 828", "réseau de neurones 838", "réseau de neurones 848", "réseau de neurones 858", "réseau de neurones 868", "réseau de neurones 878", "réseau de neurones 889", "réseau de neurones 899", "réseau de neurones 909", "réseau de neurones 919", "réseau de neurones 929", "réseau de neurones 939", "réseau de neurones 949", "réseau de neurones 959", "réseau de neurones 969", "réseau de neurones 979", "réseau de neurones 989", "réseau de neurones 1000", "modèle linéaire 1", "modèle linéaire 11", "modèle linéaire 21", "modèle linéaire 31", "modèle linéaire 41", "modèle linéaire 51", "modèle linéaire 61", "modèle linéaire 71", "modèle linéaire 81", "modèle linéaire 91", "modèle linéaire 101", "modèle linéaire 112", "modèle linéaire 122", "modèle linéaire 132", "modèle linéaire 142", "modèle linéaire 152", "modèle linéaire 162", "modèle linéaire 172", "modèle linéaire 182", "modèle linéaire 192", "modèle linéaire 202", "modèle linéaire 212", "modèle linéaire 223", "modèle linéaire 233", "modèle linéaire 243", "modèle linéaire 253", "modèle linéaire 263", "modèle linéaire 273", "modèle linéaire 283", "modèle linéaire 293", "modèle linéaire 303", "modèle linéaire 313", "modèle linéaire 323", "modèle linéaire 334", "modèle linéaire 344", "modèle linéaire 354", "modèle linéaire 364", "modèle linéaire 374", "modèle linéaire 384", "modèle linéaire 394", "modèle linéaire 404", "modèle linéaire 414", "modèle linéaire 424", "modèle linéaire 434", "modèle linéaire 445", "modèle linéaire 455", "modèle linéaire 465", "modèle linéaire 475", "modèle linéaire 485", "modèle linéaire 495", "modèle linéaire 505", "modèle linéaire 515", "modèle linéaire 525", "modèle linéaire 535", "modèle linéaire 545", "modèle linéaire 556", "modèle linéaire 566", "modèle linéaire 576", "modèle linéaire 586", "modèle linéaire 596", "modèle linéaire 606", "modèle linéaire 616", "modèle linéaire 626", "modèle linéaire 636", "modèle linéaire 646", "modèle linéaire 656", "modèle linéaire 667", "modèle linéaire 677", "modèle linéaire 687", "modèle linéaire 697", "modèle linéaire 707", "modèle linéaire 717", "modèle linéaire 727", "modèle linéaire 737", "modèle linéaire 747", "modèle linéaire 757", "modèle linéaire 767", "modèle linéaire 778", "modèle linéaire 788", "modèle linéaire 798", "modèle linéaire 808", "modèle linéaire 818", "modèle linéaire 828", "modèle linéaire 838", "modèle linéaire 848", "modèle linéaire 858", "modèle linéaire 868", "modèle linéaire 878", "modèle linéaire 889", "modèle linéaire 899", "modèle linéaire 909", "modèle linéaire 919", "modèle linéaire 929", "modèle linéaire 939", "modèle linéaire 949", "modèle linéaire 959", "modèle linéaire 969", "modèle linéaire 979", "modèle linéaire 989", "modèle linéaire 1000" ] 
+},
+"duration": {
+ "modèle.itération":      500 
+},
+"selectors": {
+ "ensemble": {
+ "type": "multiple",
+"legend": true,
+"is.variable.value": false,
+"showSelected": true,
+"selected": [ "sous-entraînement", "validation" ],
+"levels": [ "sous-entraînement", "validation" ],
+"update": [
+ "geom1_line_loss",
+"geom2_point_loss",
+"geom7_point_data" 
+] 
+},
+"exactitude": {
+ "type": "multiple",
+"legend": true,
+"is.variable.value": false,
+"showSelected": true,
+"selected": [ "correcte", "erronée" ],
+"levels": [ "correcte", "erronée" ],
+"update": [
+ "geom7_point_data" 
+] 
+},
+"modèle.itération": {
+ "is.variable.value": false,
+"type": "single",
+"clickSelects": true,
+"showSelected": true,
+"chunks": "modèle.itération",
+"selected": "modèle linéaire 1",
+"levels": [ "modèle linéaire 1", "modèle linéaire 11", "modèle linéaire 21", "modèle linéaire 31", "modèle linéaire 41", "modèle linéaire 51", "modèle linéaire 61", "modèle linéaire 71", "modèle linéaire 81", "modèle linéaire 91", "modèle linéaire 101", "modèle linéaire 112", "modèle linéaire 122", "modèle linéaire 132", "modèle linéaire 142", "modèle linéaire 152", "modèle linéaire 162", "modèle linéaire 172", "modèle linéaire 182", "modèle linéaire 192", "modèle linéaire 202", "modèle linéaire 212", "modèle linéaire 223", "modèle linéaire 233", "modèle linéaire 243", "modèle linéaire 253", "modèle linéaire 263", "modèle linéaire 273", "modèle linéaire 283", "modèle linéaire 293", "modèle linéaire 303", "modèle linéaire 313", "modèle linéaire 323", "modèle linéaire 334", "modèle linéaire 344", "modèle linéaire 354", "modèle linéaire 364", "modèle linéaire 374", "modèle linéaire 384", "modèle linéaire 394", "modèle linéaire 404", "modèle linéaire 414", "modèle linéaire 424", "modèle linéaire 434", "modèle linéaire 445", "modèle linéaire 455", "modèle linéaire 465", "modèle linéaire 475", "modèle linéaire 485", "modèle linéaire 495", "modèle linéaire 505", "modèle linéaire 515", "modèle linéaire 525", "modèle linéaire 535", "modèle linéaire 545", "modèle linéaire 556", "modèle linéaire 566", "modèle linéaire 576", "modèle linéaire 586", "modèle linéaire 596", "modèle linéaire 606", "modèle linéaire 616", "modèle linéaire 626", "modèle linéaire 636", "modèle linéaire 646", "modèle linéaire 656", "modèle linéaire 667", "modèle linéaire 677", "modèle linéaire 687", "modèle linéaire 697", "modèle linéaire 707", "modèle linéaire 717", "modèle linéaire 727", "modèle linéaire 737", "modèle linéaire 747", "modèle linéaire 757", "modèle linéaire 767", "modèle linéaire 778", "modèle linéaire 788", "modèle linéaire 798", "modèle linéaire 808", "modèle linéaire 818", "modèle linéaire 828", "modèle linéaire 838", "modèle linéaire 848", "modèle linéaire 858", "modèle linéaire 868", "modèle linéaire 878", "modèle linéaire 889", "modèle linéaire 899", "modèle linéaire 909", "modèle linéaire 919", "modèle linéaire 929", "modèle linéaire 939", "modèle linéaire 949", "modèle linéaire 959", "modèle linéaire 969", "modèle linéaire 979", "modèle linéaire 989", "modèle linéaire 1000", "réseau de neurones 1", "réseau de neurones 11", "réseau de neurones 21", "réseau de neurones 31", "réseau de neurones 41", "réseau de neurones 51", "réseau de neurones 61", "réseau de neurones 71", "réseau de neurones 81", "réseau de neurones 91", "réseau de neurones 101", "réseau de neurones 112", "réseau de neurones 122", "réseau de neurones 132", "réseau de neurones 142", "réseau de neurones 152", "réseau de neurones 162", "réseau de neurones 172", "réseau de neurones 182", "réseau de neurones 192", "réseau de neurones 202", "réseau de neurones 212", "réseau de neurones 223", "réseau de neurones 233", "réseau de neurones 243", "réseau de neurones 253", "réseau de neurones 263", "réseau de neurones 273", "réseau de neurones 283", "réseau de neurones 293", "réseau de neurones 303", "réseau de neurones 313", "réseau de neurones 323", "réseau de neurones 334", "réseau de neurones 344", "réseau de neurones 354", "réseau de neurones 364", "réseau de neurones 374", "réseau de neurones 384", "réseau de neurones 394", "réseau de neurones 404", "réseau de neurones 414", "réseau de neurones 424", "réseau de neurones 434", "réseau de neurones 445", "réseau de neurones 455", "réseau de neurones 465", "réseau de neurones 475", "réseau de neurones 485", "réseau de neurones 495", "réseau de neurones 505", "réseau de neurones 515", "réseau de neurones 525", "réseau de neurones 535", "réseau de neurones 545", "réseau de neurones 556", "réseau de neurones 566", "réseau de neurones 576", "réseau de neurones 586", "réseau de neurones 596", "réseau de neurones 606", "réseau de neurones 616", "réseau de neurones 626", "réseau de neurones 636", "réseau de neurones 646", "réseau de neurones 656", "réseau de neurones 667", "réseau de neurones 677", "réseau de neurones 687", "réseau de neurones 697", "réseau de neurones 707", "réseau de neurones 717", "réseau de neurones 727", "réseau de neurones 737", "réseau de neurones 747", "réseau de neurones 757", "réseau de neurones 767", "réseau de neurones 778", "réseau de neurones 788", "réseau de neurones 798", "réseau de neurones 808", "réseau de neurones 818", "réseau de neurones 828", "réseau de neurones 838", "réseau de neurones 848", "réseau de neurones 858", "réseau de neurones 868", "réseau de neurones 878", "réseau de neurones 889", "réseau de neurones 899", "réseau de neurones 909", "réseau de neurones 919", "réseau de neurones 929", "réseau de neurones 939", "réseau de neurones 949", "réseau de neurones 959", "réseau de neurones 969", "réseau de neurones 979", "réseau de neurones 989", "réseau de neurones 1000" ],
+"update": [
+ "geom3_tallrect_loss",
+"geom4_tile_data",
+"geom5_text_data",
+"geom6_path_data",
+"geom7_point_data" 
+],
+"duration":      500 
+} 
+},
+"plots": {
+ "loss": {
+ "panel_margin_lines":        1,
+"legend": {
+ "ensemble": {
+ "guide": "legend",
+"geoms": [ "path", "point" ],
+"title": "ensemble",
+"class": "ensemble",
+"selector": "ensemble",
+"is_discrete": true,
+"legend_type": [ "colour", "fill" ],
+"text_size": "9.6pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pathcolour": "#F8766D",
+"pathsize":      0.5,
+"pathlinetype":        1,
+"label": "sous-entraînement",
+"pointfill": "#F8766D",
+"pointshape":       21,
+"pointcolour": "#000000",
+"pointsize":      1.5,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#00BFC4",
+"pathsize":      0.5,
+"pathlinetype":        1,
+"label": "validation",
+"pointfill": "#00BFC4",
+"pointshape":       21,
+"pointcolour": "#000000",
+"pointsize":      1.5,
+"pointstroke":      0.5 
+} 
+] 
+} 
+},
+"strips": {
+ "right": [
+ "",
+"logistique",
+"",
+"pourcent erroné" 
+],
+"top": [
+ "modèle linéaire",
+"réseau de neurones",
+"",
+"" 
+],
+"n": {
+ "top":        1,
+"right":        1 
+} 
+},
+"layout": {
+ "PANEL": [ "1", "2", "3", "4" ],
+"ROW": [ 1, 1, 2, 2 ],
+"COL": [ 1, 2, 1, 2 ],
+"variable": [ "logistique", "logistique", "pourcent erroné", "pourcent erroné" ],
+"model.name": [ "modèle linéaire", "réseau de neurones", "modèle linéaire", "réseau de neurones" ],
+"SCALE_X": [ 1, 2, 1, 2 ],
+"SCALE_Y": [ 1, 1, 2, 2 ],
+"AXIS_Y": [ true, false, true, false ],
+"AXIS_X": [ false, false, true, true ],
+"coord_fixed": [ false, false, false, false ],
+"width_proportion": [      0.5,      0.5,      0.5,      0.5 ],
+"height_proportion": [      0.5,      0.5,      0.5,      0.5 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+     250,
+     500,
+     750,
+    1000 
+],
+[
+        0,
+     250,
+     500,
+     750,
+    1000 
+],
+[
+        0,
+     250,
+     500,
+     750,
+    1000 
+],
+[
+        0,
+     250,
+     500,
+     750,
+    1000 
+] 
+],
+"y": [
+ [
+ -1.522879,
+      -1,
+-0.5228787,
+       0 
+],
+[
+ -1.522879,
+      -1,
+-0.5228787,
+       0 
+],
+[
+ 0.4771213,
+       1,
+1.477121 
+],
+[
+ 0.4771213,
+       1,
+1.477121 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+     125,
+     250,
+     375,
+     500,
+     625,
+     750,
+     875,
+    1000 
+],
+[
+        0,
+     125,
+     250,
+     375,
+     500,
+     625,
+     750,
+     875,
+    1000 
+],
+[
+        0,
+     125,
+     250,
+     375,
+     500,
+     625,
+     750,
+     875,
+    1000 
+],
+[
+        0,
+     125,
+     250,
+     375,
+     500,
+     625,
+     750,
+     875,
+    1000 
+] 
+],
+"y": [
+ [
+ -1.522879,
+-1.261439,
+      -1,
+-0.7614394,
+-0.5228787,
+-0.2614394,
+       0 
+],
+[
+ -1.522879,
+-1.261439,
+      -1,
+-0.7614394,
+-0.5228787,
+-0.2614394,
+       0 
+],
+[
+ 0.4771213,
+0.7385606,
+       1,
+1.238561,
+1.477121,
+1.738561 
+],
+[
+ 0.4771213,
+0.7385606,
+       1,
+1.238561,
+1.477121,
+1.738561 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+        0,
+     250,
+     500,
+     750,
+    1000 
+],
+"xlab": [
+ "0",
+"250",
+"500",
+"750",
+"1000" 
+],
+"xrange": [    -49.5,   1050.5 ],
+"xline": false,
+"xticks": true,
+"y": [
+ -1.522879,
+      -1,
+-0.5228787,
+       0 
+],
+"ylab": [
+ "0.03",
+"0.10",
+"0.30",
+"1.00" 
+],
+"yrange": [ -1.54774, 0.2043278 ],
+"yline": false,
+"yticks": true 
+},
+"axis2": {
+ "x": [
+        0,
+     250,
+     500,
+     750,
+    1000 
+],
+"xlab": [
+ "0",
+"250",
+"500",
+"750",
+"1000" 
+],
+"xrange": [    -49.5,   1050.5 ],
+"xline": false,
+"xticks": true,
+"y": [
+ -1.522879,
+      -1,
+-0.5228787,
+       0 
+],
+"ylab": [
+ "0.03",
+"0.10",
+"0.30",
+"1.00" 
+],
+"yrange": [ -1.54774, 0.2043278 ],
+"yline": false,
+"yticks": true 
+},
+"axis3": {
+ "x": [
+        0,
+     250,
+     500,
+     750,
+    1000 
+],
+"xlab": [
+ "0",
+"250",
+"500",
+"750",
+"1000" 
+],
+"xrange": [    -49.5,   1050.5 ],
+"xline": false,
+"xticks": true,
+"y": [
+ 0.4771213,
+       1,
+1.477121 
+],
+"ylab": [
+ "3",
+"10",
+"30" 
+],
+"yrange": [ 0.2214768, 1.971648 ],
+"yline": false,
+"yticks": true 
+},
+"axis4": {
+ "x": [
+        0,
+     250,
+     500,
+     750,
+    1000 
+],
+"xlab": [
+ "0",
+"250",
+"500",
+"750",
+"1000" 
+],
+"xrange": [    -49.5,   1050.5 ],
+"xline": false,
+"xticks": true,
+"y": [
+ 0.4771213,
+       1,
+1.477121 
+],
+"ylab": [
+ "3",
+"10",
+"30" 
+],
+"yrange": [ 0.2214768, 1.971648 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "Itération/epoque de la descente de gradient",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "0",
+"250",
+"500",
+"750",
+"1000" 
+],
+"ylabs": [
+ "0.03",
+"0.10",
+"0.30",
+"1.00",
+"3",
+"10",
+"30" 
+],
+"title": "Erreur, choisir modèle et itération",
+"title_size": "14.4pt",
+"options": {
+ "width":      500,
+"height":      800 
+},
+"span": {
+ "rowspan": null,
+"colspan": null,
+"last_in_row": null 
+},
+"geoms": [
+ "geom1_line_loss",
+"geom2_point_loss",
+"geom3_tallrect_loss" 
+] 
+},
+"data": {
+ "panel_margin_lines":     0.27,
+"legend": {
+ "Classe y, Préd. Prob.": {
+ "guide": "legend",
+"geoms": [ "polygon", "point" ],
+"title": "Classe y, Préd. Prob.",
+"class": "Classe y, Préd. Prob.",
+"selector": null,
+"is_discrete": false,
+"legend_type": "fill",
+"text_size": "9.6pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "polygonfill": "#3A3A98",
+"polygonsize":      0.1,
+"polygonlinetype":        1,
+"label": "1.0",
+"pointfill": "#3A3A98",
+"pointshape":       21,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5 
+},
+{
+ "polygonfill": "#A197CC",
+"polygonsize":      0.1,
+"polygonlinetype":        1,
+"label": "0.5",
+"pointfill": "#A197CC",
+"pointshape":       21,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5 
+},
+{
+ "polygonfill": "#FFFFFF",
+"polygonsize":      0.1,
+"polygonlinetype":        1,
+"label": "0.0",
+"pointfill": "#FFFFFF",
+"pointshape":       21,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5 
+},
+{
+ "polygonfill": "#FF9E81",
+"polygonsize":      0.1,
+"polygonlinetype":        1,
+"label": "-0.5",
+"pointfill": "#FF9E81",
+"pointshape":       21,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5 
+},
+{
+ "polygonfill": "#FF0000",
+"polygonsize":      0.1,
+"polygonlinetype":        1,
+"label": "-1.0",
+"pointfill": "#FF0000",
+"pointshape":       21,
+"pointcolour": "#000000",
+"pointsize":        4,
+"pointstroke":      0.5 
+} 
+] 
+},
+"exactitude": {
+ "guide": "legend",
+"geoms": "point",
+"title": "exactitude",
+"class": "exactitude",
+"selector": "exactitude",
+"is_discrete": true,
+"legend_type": "colour",
+"text_size": "9.6pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pointcolour": "#FFFFFF",
+"pointshape":       21,
+"pointsize":        4,
+"pointstroke":      0.5,
+"label": "correcte",
+"pointfill": "#FFFFFF" 
+},
+{
+ "pointcolour": "#000000",
+"pointshape":       21,
+"pointsize":        4,
+"pointstroke":      0.5,
+"label": "erronée",
+"pointfill": "#FFFFFF" 
+} 
+] 
+} 
+},
+"strips": {
+ "right": [
+ "ensemble: sous-entraînement",
+"ensemble: validation" 
+],
+"top": [
+ "",
+"" 
+],
+"n": {
+ "top":        1,
+"right":        1 
+} 
+},
+"layout": {
+ "PANEL": [ "1", "2" ],
+"ROW": [ 1, 2 ],
+"COL": [ 1, 1 ],
+"ensemble": [ "sous-entraînement", "validation" ],
+"SCALE_X": [ 1, 1 ],
+"SCALE_Y": [ 1, 1 ],
+"AXIS_Y": [ true, true ],
+"AXIS_X": [ false, true ],
+"coord_fixed": [ true, true ],
+"width_proportion": [ 0.8934395, 0.8934395 ],
+"height_proportion": [      0.5,      0.5 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
+"size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+    0.25,
+     0.5,
+    0.75,
+       1 
+],
+[
+        0,
+    0.25,
+     0.5,
+    0.75,
+       1 
+] 
+],
+"y": [
+ [
+        0,
+     0.4,
+     0.8 
+],
+[
+        0,
+     0.4,
+     0.8 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#FAFAFA",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+   0.125,
+    0.25,
+   0.375,
+     0.5,
+   0.625,
+    0.75,
+   0.875,
+       1 
+],
+[
+        0,
+   0.125,
+    0.25,
+   0.375,
+     0.5,
+   0.625,
+    0.75,
+   0.875,
+       1 
+] 
+],
+"y": [
+ [
+        0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+       1 
+],
+[
+        0,
+     0.2,
+     0.4,
+     0.6,
+     0.8,
+       1 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+        0,
+    0.25,
+     0.5,
+    0.75,
+       1 
+],
+"xlab": [
+ "0.00",
+"0.25",
+"0.50",
+"0.75",
+"1.00" 
+],
+"xrange": [ -0.07436344, 1.091683 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+     0.4,
+     0.8 
+],
+"ylab": [
+ "0.0",
+"0.4",
+"0.8" 
+],
+"yrange": [ -0.145797, 1.159324 ],
+"yline": false,
+"yticks": true 
+},
+"axis2": {
+ "x": [
+        0,
+    0.25,
+     0.5,
+    0.75,
+       1 
+],
+"xlab": [
+ "0.00",
+"0.25",
+"0.50",
+"0.75",
+"1.00" 
+],
+"xrange": [ -0.07436344, 1.091683 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+     0.4,
+     0.8 
+],
+"ylab": [
+ "0.0",
+"0.4",
+"0.8" 
+],
+"yrange": [ -0.145797, 1.159324 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "Entrée x1",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "Entrée x2",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "0.00",
+"0.25",
+"0.50",
+"0.75",
+"1.00" 
+],
+"ylabs": [
+ "0.0",
+"0.4",
+"0.8" 
+],
+"title": "Fonction apprise pour la sélection",
+"title_size": "14.4pt",
+"options": {
+ "width":      500,
+"height":      800 
+},
+"span": {
+ "rowspan": null,
+"colspan": null,
+"last_in_row": true 
+},
+"geoms": [
+ "geom4_tile_data",
+"geom5_text_data",
+"geom6_path_data",
+"geom7_point_data" 
+] 
+} 
+},
+"source": "https://github.com/tdhock/2026-08-apprentissage/blob/master/figure-gradient-descent-classification-fr.R",
+"title": "Descente de gradient pour classification avec modèle linéaire et réseau de neurones" 
+}

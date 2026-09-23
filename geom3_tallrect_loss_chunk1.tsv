@@ -1,0 +1,401 @@
+xmin	xmax	clickSelects	PANEL
+0.5	1.5	modèle linéaire 1	1
+10.5	11.5	modèle linéaire 11	1
+20.5	21.5	modèle linéaire 21	1
+30.5	31.5	modèle linéaire 31	1
+40.5	41.5	modèle linéaire 41	1
+50.5	51.5	modèle linéaire 51	1
+60.5	61.5	modèle linéaire 61	1
+70.5	71.5	modèle linéaire 71	1
+80.5	81.5	modèle linéaire 81	1
+90.5	91.5	modèle linéaire 91	1
+100.5	101.5	modèle linéaire 101	1
+111.5	112.5	modèle linéaire 112	1
+121.5	122.5	modèle linéaire 122	1
+131.5	132.5	modèle linéaire 132	1
+141.5	142.5	modèle linéaire 142	1
+151.5	152.5	modèle linéaire 152	1
+161.5	162.5	modèle linéaire 162	1
+171.5	172.5	modèle linéaire 172	1
+181.5	182.5	modèle linéaire 182	1
+191.5	192.5	modèle linéaire 192	1
+201.5	202.5	modèle linéaire 202	1
+211.5	212.5	modèle linéaire 212	1
+222.5	223.5	modèle linéaire 223	1
+232.5	233.5	modèle linéaire 233	1
+242.5	243.5	modèle linéaire 243	1
+252.5	253.5	modèle linéaire 253	1
+262.5	263.5	modèle linéaire 263	1
+272.5	273.5	modèle linéaire 273	1
+282.5	283.5	modèle linéaire 283	1
+292.5	293.5	modèle linéaire 293	1
+302.5	303.5	modèle linéaire 303	1
+312.5	313.5	modèle linéaire 313	1
+322.5	323.5	modèle linéaire 323	1
+333.5	334.5	modèle linéaire 334	1
+343.5	344.5	modèle linéaire 344	1
+353.5	354.5	modèle linéaire 354	1
+363.5	364.5	modèle linéaire 364	1
+373.5	374.5	modèle linéaire 374	1
+383.5	384.5	modèle linéaire 384	1
+393.5	394.5	modèle linéaire 394	1
+403.5	404.5	modèle linéaire 404	1
+413.5	414.5	modèle linéaire 414	1
+423.5	424.5	modèle linéaire 424	1
+433.5	434.5	modèle linéaire 434	1
+444.5	445.5	modèle linéaire 445	1
+454.5	455.5	modèle linéaire 455	1
+464.5	465.5	modèle linéaire 465	1
+474.5	475.5	modèle linéaire 475	1
+484.5	485.5	modèle linéaire 485	1
+494.5	495.5	modèle linéaire 495	1
+504.5	505.5	modèle linéaire 505	1
+514.5	515.5	modèle linéaire 515	1
+524.5	525.5	modèle linéaire 525	1
+534.5	535.5	modèle linéaire 535	1
+544.5	545.5	modèle linéaire 545	1
+555.5	556.5	modèle linéaire 556	1
+565.5	566.5	modèle linéaire 566	1
+575.5	576.5	modèle linéaire 576	1
+585.5	586.5	modèle linéaire 586	1
+595.5	596.5	modèle linéaire 596	1
+605.5	606.5	modèle linéaire 606	1
+615.5	616.5	modèle linéaire 616	1
+625.5	626.5	modèle linéaire 626	1
+635.5	636.5	modèle linéaire 636	1
+645.5	646.5	modèle linéaire 646	1
+655.5	656.5	modèle linéaire 656	1
+666.5	667.5	modèle linéaire 667	1
+676.5	677.5	modèle linéaire 677	1
+686.5	687.5	modèle linéaire 687	1
+696.5	697.5	modèle linéaire 697	1
+706.5	707.5	modèle linéaire 707	1
+716.5	717.5	modèle linéaire 717	1
+726.5	727.5	modèle linéaire 727	1
+736.5	737.5	modèle linéaire 737	1
+746.5	747.5	modèle linéaire 747	1
+756.5	757.5	modèle linéaire 757	1
+766.5	767.5	modèle linéaire 767	1
+777.5	778.5	modèle linéaire 778	1
+787.5	788.5	modèle linéaire 788	1
+797.5	798.5	modèle linéaire 798	1
+807.5	808.5	modèle linéaire 808	1
+817.5	818.5	modèle linéaire 818	1
+827.5	828.5	modèle linéaire 828	1
+837.5	838.5	modèle linéaire 838	1
+847.5	848.5	modèle linéaire 848	1
+857.5	858.5	modèle linéaire 858	1
+867.5	868.5	modèle linéaire 868	1
+877.5	878.5	modèle linéaire 878	1
+888.5	889.5	modèle linéaire 889	1
+898.5	899.5	modèle linéaire 899	1
+908.5	909.5	modèle linéaire 909	1
+918.5	919.5	modèle linéaire 919	1
+928.5	929.5	modèle linéaire 929	1
+938.5	939.5	modèle linéaire 939	1
+948.5	949.5	modèle linéaire 949	1
+958.5	959.5	modèle linéaire 959	1
+968.5	969.5	modèle linéaire 969	1
+978.5	979.5	modèle linéaire 979	1
+988.5	989.5	modèle linéaire 989	1
+999.5	1000.5	modèle linéaire 1000	1
+0.5	1.5	réseau de neurones 1	2
+10.5	11.5	réseau de neurones 11	2
+20.5	21.5	réseau de neurones 21	2
+30.5	31.5	réseau de neurones 31	2
+40.5	41.5	réseau de neurones 41	2
+50.5	51.5	réseau de neurones 51	2
+60.5	61.5	réseau de neurones 61	2
+70.5	71.5	réseau de neurones 71	2
+80.5	81.5	réseau de neurones 81	2
+90.5	91.5	réseau de neurones 91	2
+100.5	101.5	réseau de neurones 101	2
+111.5	112.5	réseau de neurones 112	2
+121.5	122.5	réseau de neurones 122	2
+131.5	132.5	réseau de neurones 132	2
+141.5	142.5	réseau de neurones 142	2
+151.5	152.5	réseau de neurones 152	2
+161.5	162.5	réseau de neurones 162	2
+171.5	172.5	réseau de neurones 172	2
+181.5	182.5	réseau de neurones 182	2
+191.5	192.5	réseau de neurones 192	2
+201.5	202.5	réseau de neurones 202	2
+211.5	212.5	réseau de neurones 212	2
+222.5	223.5	réseau de neurones 223	2
+232.5	233.5	réseau de neurones 233	2
+242.5	243.5	réseau de neurones 243	2
+252.5	253.5	réseau de neurones 253	2
+262.5	263.5	réseau de neurones 263	2
+272.5	273.5	réseau de neurones 273	2
+282.5	283.5	réseau de neurones 283	2
+292.5	293.5	réseau de neurones 293	2
+302.5	303.5	réseau de neurones 303	2
+312.5	313.5	réseau de neurones 313	2
+322.5	323.5	réseau de neurones 323	2
+333.5	334.5	réseau de neurones 334	2
+343.5	344.5	réseau de neurones 344	2
+353.5	354.5	réseau de neurones 354	2
+363.5	364.5	réseau de neurones 364	2
+373.5	374.5	réseau de neurones 374	2
+383.5	384.5	réseau de neurones 384	2
+393.5	394.5	réseau de neurones 394	2
+403.5	404.5	réseau de neurones 404	2
+413.5	414.5	réseau de neurones 414	2
+423.5	424.5	réseau de neurones 424	2
+433.5	434.5	réseau de neurones 434	2
+444.5	445.5	réseau de neurones 445	2
+454.5	455.5	réseau de neurones 455	2
+464.5	465.5	réseau de neurones 465	2
+474.5	475.5	réseau de neurones 475	2
+484.5	485.5	réseau de neurones 485	2
+494.5	495.5	réseau de neurones 495	2
+504.5	505.5	réseau de neurones 505	2
+514.5	515.5	réseau de neurones 515	2
+524.5	525.5	réseau de neurones 525	2
+534.5	535.5	réseau de neurones 535	2
+544.5	545.5	réseau de neurones 545	2
+555.5	556.5	réseau de neurones 556	2
+565.5	566.5	réseau de neurones 566	2
+575.5	576.5	réseau de neurones 576	2
+585.5	586.5	réseau de neurones 586	2
+595.5	596.5	réseau de neurones 596	2
+605.5	606.5	réseau de neurones 606	2
+615.5	616.5	réseau de neurones 616	2
+625.5	626.5	réseau de neurones 626	2
+635.5	636.5	réseau de neurones 636	2
+645.5	646.5	réseau de neurones 646	2
+655.5	656.5	réseau de neurones 656	2
+666.5	667.5	réseau de neurones 667	2
+676.5	677.5	réseau de neurones 677	2
+686.5	687.5	réseau de neurones 687	2
+696.5	697.5	réseau de neurones 697	2
+706.5	707.5	réseau de neurones 707	2
+716.5	717.5	réseau de neurones 717	2
+726.5	727.5	réseau de neurones 727	2
+736.5	737.5	réseau de neurones 737	2
+746.5	747.5	réseau de neurones 747	2
+756.5	757.5	réseau de neurones 757	2
+766.5	767.5	réseau de neurones 767	2
+777.5	778.5	réseau de neurones 778	2
+787.5	788.5	réseau de neurones 788	2
+797.5	798.5	réseau de neurones 798	2
+807.5	808.5	réseau de neurones 808	2
+817.5	818.5	réseau de neurones 818	2
+827.5	828.5	réseau de neurones 828	2
+837.5	838.5	réseau de neurones 838	2
+847.5	848.5	réseau de neurones 848	2
+857.5	858.5	réseau de neurones 858	2
+867.5	868.5	réseau de neurones 868	2
+877.5	878.5	réseau de neurones 878	2
+888.5	889.5	réseau de neurones 889	2
+898.5	899.5	réseau de neurones 899	2
+908.5	909.5	réseau de neurones 909	2
+918.5	919.5	réseau de neurones 919	2
+928.5	929.5	réseau de neurones 929	2
+938.5	939.5	réseau de neurones 939	2
+948.5	949.5	réseau de neurones 949	2
+958.5	959.5	réseau de neurones 959	2
+968.5	969.5	réseau de neurones 969	2
+978.5	979.5	réseau de neurones 979	2
+988.5	989.5	réseau de neurones 989	2
+999.5	1000.5	réseau de neurones 1000	2
+0.5	1.5	modèle linéaire 1	3
+10.5	11.5	modèle linéaire 11	3
+20.5	21.5	modèle linéaire 21	3
+30.5	31.5	modèle linéaire 31	3
+40.5	41.5	modèle linéaire 41	3
+50.5	51.5	modèle linéaire 51	3
+60.5	61.5	modèle linéaire 61	3
+70.5	71.5	modèle linéaire 71	3
+80.5	81.5	modèle linéaire 81	3
+90.5	91.5	modèle linéaire 91	3
+100.5	101.5	modèle linéaire 101	3
+111.5	112.5	modèle linéaire 112	3
+121.5	122.5	modèle linéaire 122	3
+131.5	132.5	modèle linéaire 132	3
+141.5	142.5	modèle linéaire 142	3
+151.5	152.5	modèle linéaire 152	3
+161.5	162.5	modèle linéaire 162	3
+171.5	172.5	modèle linéaire 172	3
+181.5	182.5	modèle linéaire 182	3
+191.5	192.5	modèle linéaire 192	3
+201.5	202.5	modèle linéaire 202	3
+211.5	212.5	modèle linéaire 212	3
+222.5	223.5	modèle linéaire 223	3
+232.5	233.5	modèle linéaire 233	3
+242.5	243.5	modèle linéaire 243	3
+252.5	253.5	modèle linéaire 253	3
+262.5	263.5	modèle linéaire 263	3
+272.5	273.5	modèle linéaire 273	3
+282.5	283.5	modèle linéaire 283	3
+292.5	293.5	modèle linéaire 293	3
+302.5	303.5	modèle linéaire 303	3
+312.5	313.5	modèle linéaire 313	3
+322.5	323.5	modèle linéaire 323	3
+333.5	334.5	modèle linéaire 334	3
+343.5	344.5	modèle linéaire 344	3
+353.5	354.5	modèle linéaire 354	3
+363.5	364.5	modèle linéaire 364	3
+373.5	374.5	modèle linéaire 374	3
+383.5	384.5	modèle linéaire 384	3
+393.5	394.5	modèle linéaire 394	3
+403.5	404.5	modèle linéaire 404	3
+413.5	414.5	modèle linéaire 414	3
+423.5	424.5	modèle linéaire 424	3
+433.5	434.5	modèle linéaire 434	3
+444.5	445.5	modèle linéaire 445	3
+454.5	455.5	modèle linéaire 455	3
+464.5	465.5	modèle linéaire 465	3
+474.5	475.5	modèle linéaire 475	3
+484.5	485.5	modèle linéaire 485	3
+494.5	495.5	modèle linéaire 495	3
+504.5	505.5	modèle linéaire 505	3
+514.5	515.5	modèle linéaire 515	3
+524.5	525.5	modèle linéaire 525	3
+534.5	535.5	modèle linéaire 535	3
+544.5	545.5	modèle linéaire 545	3
+555.5	556.5	modèle linéaire 556	3
+565.5	566.5	modèle linéaire 566	3
+575.5	576.5	modèle linéaire 576	3
+585.5	586.5	modèle linéaire 586	3
+595.5	596.5	modèle linéaire 596	3
+605.5	606.5	modèle linéaire 606	3
+615.5	616.5	modèle linéaire 616	3
+625.5	626.5	modèle linéaire 626	3
+635.5	636.5	modèle linéaire 636	3
+645.5	646.5	modèle linéaire 646	3
+655.5	656.5	modèle linéaire 656	3
+666.5	667.5	modèle linéaire 667	3
+676.5	677.5	modèle linéaire 677	3
+686.5	687.5	modèle linéaire 687	3
+696.5	697.5	modèle linéaire 697	3
+706.5	707.5	modèle linéaire 707	3
+716.5	717.5	modèle linéaire 717	3
+726.5	727.5	modèle linéaire 727	3
+736.5	737.5	modèle linéaire 737	3
+746.5	747.5	modèle linéaire 747	3
+756.5	757.5	modèle linéaire 757	3
+766.5	767.5	modèle linéaire 767	3
+777.5	778.5	modèle linéaire 778	3
+787.5	788.5	modèle linéaire 788	3
+797.5	798.5	modèle linéaire 798	3
+807.5	808.5	modèle linéaire 808	3
+817.5	818.5	modèle linéaire 818	3
+827.5	828.5	modèle linéaire 828	3
+837.5	838.5	modèle linéaire 838	3
+847.5	848.5	modèle linéaire 848	3
+857.5	858.5	modèle linéaire 858	3
+867.5	868.5	modèle linéaire 868	3
+877.5	878.5	modèle linéaire 878	3
+888.5	889.5	modèle linéaire 889	3
+898.5	899.5	modèle linéaire 899	3
+908.5	909.5	modèle linéaire 909	3
+918.5	919.5	modèle linéaire 919	3
+928.5	929.5	modèle linéaire 929	3
+938.5	939.5	modèle linéaire 939	3
+948.5	949.5	modèle linéaire 949	3
+958.5	959.5	modèle linéaire 959	3
+968.5	969.5	modèle linéaire 969	3
+978.5	979.5	modèle linéaire 979	3
+988.5	989.5	modèle linéaire 989	3
+999.5	1000.5	modèle linéaire 1000	3
+0.5	1.5	réseau de neurones 1	4
+10.5	11.5	réseau de neurones 11	4
+20.5	21.5	réseau de neurones 21	4
+30.5	31.5	réseau de neurones 31	4
+40.5	41.5	réseau de neurones 41	4
+50.5	51.5	réseau de neurones 51	4
+60.5	61.5	réseau de neurones 61	4
+70.5	71.5	réseau de neurones 71	4
+80.5	81.5	réseau de neurones 81	4
+90.5	91.5	réseau de neurones 91	4
+100.5	101.5	réseau de neurones 101	4
+111.5	112.5	réseau de neurones 112	4
+121.5	122.5	réseau de neurones 122	4
+131.5	132.5	réseau de neurones 132	4
+141.5	142.5	réseau de neurones 142	4
+151.5	152.5	réseau de neurones 152	4
+161.5	162.5	réseau de neurones 162	4
+171.5	172.5	réseau de neurones 172	4
+181.5	182.5	réseau de neurones 182	4
+191.5	192.5	réseau de neurones 192	4
+201.5	202.5	réseau de neurones 202	4
+211.5	212.5	réseau de neurones 212	4
+222.5	223.5	réseau de neurones 223	4
+232.5	233.5	réseau de neurones 233	4
+242.5	243.5	réseau de neurones 243	4
+252.5	253.5	réseau de neurones 253	4
+262.5	263.5	réseau de neurones 263	4
+272.5	273.5	réseau de neurones 273	4
+282.5	283.5	réseau de neurones 283	4
+292.5	293.5	réseau de neurones 293	4
+302.5	303.5	réseau de neurones 303	4
+312.5	313.5	réseau de neurones 313	4
+322.5	323.5	réseau de neurones 323	4
+333.5	334.5	réseau de neurones 334	4
+343.5	344.5	réseau de neurones 344	4
+353.5	354.5	réseau de neurones 354	4
+363.5	364.5	réseau de neurones 364	4
+373.5	374.5	réseau de neurones 374	4
+383.5	384.5	réseau de neurones 384	4
+393.5	394.5	réseau de neurones 394	4
+403.5	404.5	réseau de neurones 404	4
+413.5	414.5	réseau de neurones 414	4
+423.5	424.5	réseau de neurones 424	4
+433.5	434.5	réseau de neurones 434	4
+444.5	445.5	réseau de neurones 445	4
+454.5	455.5	réseau de neurones 455	4
+464.5	465.5	réseau de neurones 465	4
+474.5	475.5	réseau de neurones 475	4
+484.5	485.5	réseau de neurones 485	4
+494.5	495.5	réseau de neurones 495	4
+504.5	505.5	réseau de neurones 505	4
+514.5	515.5	réseau de neurones 515	4
+524.5	525.5	réseau de neurones 525	4
+534.5	535.5	réseau de neurones 535	4
+544.5	545.5	réseau de neurones 545	4
+555.5	556.5	réseau de neurones 556	4
+565.5	566.5	réseau de neurones 566	4
+575.5	576.5	réseau de neurones 576	4
+585.5	586.5	réseau de neurones 586	4
+595.5	596.5	réseau de neurones 596	4
+605.5	606.5	réseau de neurones 606	4
+615.5	616.5	réseau de neurones 616	4
+625.5	626.5	réseau de neurones 626	4
+635.5	636.5	réseau de neurones 636	4
+645.5	646.5	réseau de neurones 646	4
+655.5	656.5	réseau de neurones 656	4
+666.5	667.5	réseau de neurones 667	4
+676.5	677.5	réseau de neurones 677	4
+686.5	687.5	réseau de neurones 687	4
+696.5	697.5	réseau de neurones 697	4
+706.5	707.5	réseau de neurones 707	4
+716.5	717.5	réseau de neurones 717	4
+726.5	727.5	réseau de neurones 727	4
+736.5	737.5	réseau de neurones 737	4
+746.5	747.5	réseau de neurones 747	4
+756.5	757.5	réseau de neurones 757	4
+766.5	767.5	réseau de neurones 767	4
+777.5	778.5	réseau de neurones 778	4
+787.5	788.5	réseau de neurones 788	4
+797.5	798.5	réseau de neurones 798	4
+807.5	808.5	réseau de neurones 808	4
+817.5	818.5	réseau de neurones 818	4
+827.5	828.5	réseau de neurones 828	4
+837.5	838.5	réseau de neurones 838	4
+847.5	848.5	réseau de neurones 848	4
+857.5	858.5	réseau de neurones 858	4
+867.5	868.5	réseau de neurones 868	4
+877.5	878.5	réseau de neurones 878	4
+888.5	889.5	réseau de neurones 889	4
+898.5	899.5	réseau de neurones 899	4
+908.5	909.5	réseau de neurones 909	4
+918.5	919.5	réseau de neurones 919	4
+928.5	929.5	réseau de neurones 929	4
+938.5	939.5	réseau de neurones 939	4
+948.5	949.5	réseau de neurones 949	4
+958.5	959.5	réseau de neurones 959	4
+968.5	969.5	réseau de neurones 969	4
+978.5	979.5	réseau de neurones 979	4
+988.5	989.5	réseau de neurones 989	4
+999.5	1000.5	réseau de neurones 1000	4
